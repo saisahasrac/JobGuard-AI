@@ -44,11 +44,20 @@ def main():
     if "fraudulent" not in df.columns:
         raise ValueError("Expected target column 'fraudulent' in the CSV.")
 
+    df = df.drop_duplicates().copy()
     df = df.dropna(subset=["fraudulent"]).copy()
-    df["fraudulent"] = pd.to_numeric(df["fraudulent"], errors="coerce")
-    df = df.dropna(subset=["fraudulent"])
-    df["fraudulent"] = df["fraudulent"].astype(int)
 
+    df["fraudulent"] = (
+        df["fraudulent"]
+        .astype(str)
+        .str.strip()
+        .str.lower()
+        .replace({"f": "0", "t": "1"})
+    )
+
+    df["fraudulent"] = pd.to_numeric(
+        df["fraudulent"], errors="raise"
+    ).astype(int)
     if not set(df["fraudulent"].unique()).issubset({0, 1}):
         raise ValueError("The 'fraudulent' target must contain only 0 and 1.")
 
