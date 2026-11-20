@@ -1,0 +1,37 @@
+JOBGUARD-AI EDA SUMMARY
+==================================================
+
+Total Rows: 17880
+Total Columns: 18
+Duplicate Rows: 235
+
+Missing Values:
+                     Missing Count  Missing Percentage
+salary_range                 15012           83.959732
+department                   11547           64.580537
+required_education            8105           45.329978
+benefits                      7196           40.246085
+required_experience           7050           39.429530
+function                      6455           36.101790
+industry                      4903           27.421700
+employment_type               3471           19.412752
+company_profile               3308           18.501119
+requirements                  2689           15.039150
+location                       346            1.935123
+title                            0            0.000000
+fraudulent                       0            0.000000
+has_company_logo                 0            0.000000
+has_questions                    0            0.000000
+telecommuting                    0            0.000000
+description                      0            0.000000
+in_balanced_dataset              0            0.000000
+
+Class Distribution:
+fraudulent
+f    17014
+t      866
+
+Class Percentages:
+fraudulent
+f    95.16
+t     4.84
