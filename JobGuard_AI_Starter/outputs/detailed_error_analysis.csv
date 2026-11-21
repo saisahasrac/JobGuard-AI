@@ -1,0 +1,825 @@
+title,description,company_profile,requirements,fraudulent,predicted_fraudulent,model_score,error_type,distance_from_threshold
+Legal Administrative Assistant,"<p>This position will support the Clients attorneys and a paralegal in the Office of General Counsel, Legal Department located in Houston, Texas. This position requires a minimum of two years of legal secretarial experience. Must be extremely organized and possess the ability to multi-task and stay flexible in a fast paced environment while working as part of a team.<br><br>Responsibilities &amp; Duties:<br>• Creates and revises correspondence, memoranda, reports, tables, charts and other legal documents.<br>• Screens and prioritizes phone messages, email and other correspondence; responds to calls and email with little direction or supervision required.<br>• Maintains calendars and dockets deadlines; schedules appointments, internal/external meetings and depositions/interviews for attorneys; makes decisions on priority and changes calendars without the need for prior approval; arranges and coordinates business trips, luncheons and dinners.<br>• Responds to inquiries from officers, management, employees and external sources regarding a variety of legal questions and other matters.<br>• Determines what, how and to whom information is to be communicated with little direction or supervision required.<br>• Handles information of a highly confidential nature.<br>• Coordinates and organizes a collection of extensive data from various sources both in-house and outside the company with limited supervision.<br>• Make travel arrangements and process expense accounts for team members.<br><br><br></p>",,"<p>Basic Qualifications:<br>• Two years of legal secretarial experience or related experience of a technical and responsible nature and proficiency with legal terminology; preferably in a law firm.<br>• Demonstrated working knowledge of computer applications such as Outlook, Lotus Notes, Word, Excel, PowerPoint, Internet research experience, Sharepoint, and word processing.<br>• Demonstrated ability to prepare correspondence, presentations and other legal documents while applying excellent grammar, spelling and punctuation and proofreading skills.<br>• Attention to detail, accuracy, and flexibility in handling multiple tasks, often under time constraints.<br>• Demonstrated organizational skills and the ability to appropriately handle highly confidential and proprietary information.<br>• Demonstrated communication skills and ability to interface effectively with executives, all levels of employees both internally and externally, paralegals and attorneys.<br><br>Desired Qualifications:<br>• Associate’s Degree or Bachelor’s Degree;<br>• Minimum of 5-years’ of legal secretarial experience or related experience of a technical and responsible nature and proficiency with legal terminology;<br>• Regulated industry or utility experience;<br>• Notary Public;<br>• Experience working in a corporate legal department.</p>",0,1,0.6053337258017192,False Positive,0.07533372580171915
+Office Administrator,"<p>Primary Duties &amp; Responsibilities:<br><br>  Performs the following duties in supporting Business Administration Manager including, but not limited to:<br><br>     Answer incoming phone calls to the main line number<br>     Greet visitors at the front desk<br>     Distribution of daily incoming mail<br>     Post mail using the postage machine and prepare UPS packages for delivery<br>     Copy, fax and scanning documents<br>     Prepare and distribute correspondence and memoranda<br>     Scheduling appointments<br>     Help planning large meetings<br>     Prepare presentation materials<br>     Gather and disseminate information on a daily basis back and forth from the corporate office to the field<br>     Set up and maintain files<br>     Compile and bind investment books<br>     Submit payables to the Accounting Department on a timely basis<br>     Maintain vendor certificates of insurance files<br>     Complete monthly credit card allocations<br>     Assist in the completion of special projects or overflow<br>     Special projects as assigned by immediate supervisor<br><br> Requirements <br><br> Qualifications:<br><br>  <br><br>     High School Diploma<br>     At least 1-2 years of previous administrative experience and/or experience supporting a department or individual<br>     Good interpersonal and oral and written communication skills<br>     Proficient in various computer skills ( Outlook, Word, Excel, PowerPoint)<br>     Must be able to multi task and be a self-starter<br>     Ability to read and interpret documents such as safety rules, operating and maintenance instructions, and procedure manuals.  Ability to write routine reports and correspondence.<br>     Ability to add, subtract, multiply, and divide in all units of measure, using ratio, and percent <br>     Ability to solve practical problems and deal with a variety of concrete variables in situations where only limited standardization exists.<br>     Ability to interpret a variety of instructions furnished in written, oral, diagram, or schedule form<br>     Basic courtesy and diplomatic abilities are important to this position.  Must be able to interact effectively with corporate system personnel and maintain a professional attitude and appearance at all times.<br></p>","<p>At the core of IT’s challenges is a perennial cycle where the majority of budgets are consumed maintaining existing systems, leaving little to reinvest in growing the business. However, an increasing number of IT organizations leverage cloud to break this cycle and unlock resources to fuel innovation for the business. Cloud computing empowers IT through flexible, automated infrastructures, new on-demand service models and new levels of IT efficiency.</p>",,0,1,0.6452308502875717,False Positive,0.11523085028757163
+Final Expense Agent,"<p><!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:RelyOnVML/>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--></p>
+<p><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val=""Cambria Math""/>
+   <m:brkBin m:val=""before""/>
+   <m:brkBinSub m:val=""&#45;-""/>
+   <m:smallFrac m:val=""off""/>
+   <m:dispDef/>
+   <m:lMargin m:val=""0""/>
+   <m:rMargin m:val=""0""/>
+   <m:defJc m:val=""centerGroup""/>
+   <m:wrapIndent m:val=""1440""/>
+   <m:intLim m:val=""subSup""/>
+   <m:naryLim m:val=""undOvr""/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=""false"" DefUnhideWhenUsed=""true""
+  DefSemiHidden=""true"" DefQFormat=""false"" DefPriority=""99""
+  LatentStyleCount=""267"">
+  <w:LsdException Locked=""false"" Priority=""0"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" QFormat=""true"" Name=""Normal""/>
+  <w:LsdException Locked=""false"" Priority=""9"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" QFormat=""true"" Name=""heading 1""/>
+  <w:LsdException Locked=""false"" Priority=""9"" QFormat=""true"" Name=""heading 2""/>
+  <w:LsdException Locked=""false"" Priority=""9"" QFormat=""true"" Name=""heading 3""/>
+  <w:LsdException Locked=""false"" Priority=""9"" QFormat=""true"" Name=""heading 4""/>
+  <w:LsdException Locked=""false"" Priority=""9"" QFormat=""true"" Name=""heading 5""/>
+  <w:LsdException Locked=""false"" Priority=""9"" QFormat=""true"" Name=""heading 6""/>
+  <w:LsdException Locked=""false"" Priority=""9"" QFormat=""true"" Name=""heading 7""/>
+  <w:LsdException Locked=""false"" Priority=""9"" QFormat=""true"" Name=""heading 8""/>
+  <w:LsdException Locked=""false"" Priority=""9"" QFormat=""true"" Name=""heading 9""/>
+  <w:LsdException Locked=""false"" Priority=""39"" Name=""toc 1""/>
+  <w:LsdException Locked=""false"" Priority=""39"" Name=""toc 2""/>
+  <w:LsdException Locked=""false"" Priority=""39"" Name=""toc 3""/>
+  <w:LsdException Locked=""false"" Priority=""39"" Name=""toc 4""/>
+  <w:LsdException Locked=""false"" Priority=""39"" Name=""toc 5""/>
+  <w:LsdException Locked=""false"" Priority=""39"" Name=""toc 6""/>
+  <w:LsdException Locked=""false"" Priority=""39"" Name=""toc 7""/>
+  <w:LsdException Locked=""false"" Priority=""39"" Name=""toc 8""/>
+  <w:LsdException Locked=""false"" Priority=""39"" Name=""toc 9""/>
+  <w:LsdException Locked=""false"" Priority=""35"" QFormat=""true"" Name=""caption""/>
+  <w:LsdException Locked=""false"" Priority=""10"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" QFormat=""true"" Name=""Title""/>
+  <w:LsdException Locked=""false"" Priority=""1"" Name=""Default Paragraph Font""/>
+  <w:LsdException Locked=""false"" Priority=""11"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" QFormat=""true"" Name=""Subtitle""/>
+  <w:LsdException Locked=""false"" Priority=""22"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" QFormat=""true"" Name=""Strong""/>
+  <w:LsdException Locked=""false"" Priority=""20"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" QFormat=""true"" Name=""Emphasis""/>
+  <w:LsdException Locked=""false"" Priority=""59"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Table Grid""/>
+  <w:LsdException Locked=""false"" UnhideWhenUsed=""false"" Name=""Placeholder Text""/>
+  <w:LsdException Locked=""false"" Priority=""1"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" QFormat=""true"" Name=""No Spacing""/>
+  <w:LsdException Locked=""false"" Priority=""60"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Light Shading""/>
+  <w:LsdException Locked=""false"" Priority=""61"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Light List""/>
+  <w:LsdException Locked=""false"" Priority=""62"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Light Grid""/>
+  <w:LsdException Locked=""false"" Priority=""63"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Shading 1""/>
+  <w:LsdException Locked=""false"" Priority=""64"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Shading 2""/>
+  <w:LsdException Locked=""false"" Priority=""65"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium List 1""/>
+  <w:LsdException Locked=""false"" Priority=""66"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium List 2""/>
+  <w:LsdException Locked=""false"" Priority=""67"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Grid 1""/>
+  <w:LsdException Locked=""false"" Priority=""68"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Grid 2""/>
+  <w:LsdException Locked=""false"" Priority=""69"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Grid 3""/>
+  <w:LsdException Locked=""false"" Priority=""70"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Dark List""/>
+  <w:LsdException Locked=""false"" Priority=""71"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Colorful Shading""/>
+  <w:LsdException Locked=""false"" Priority=""72"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Colorful List""/>
+  <w:LsdException Locked=""false"" Priority=""73"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Colorful Grid""/>
+  <w:LsdException Locked=""false"" Priority=""60"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Light Shading Accent 1""/>
+  <w:LsdException Locked=""false"" Priority=""61"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Light List Accent 1""/>
+  <w:LsdException Locked=""false"" Priority=""62"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Light Grid Accent 1""/>
+  <w:LsdException Locked=""false"" Priority=""63"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Shading 1 Accent 1""/>
+  <w:LsdException Locked=""false"" Priority=""64"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Shading 2 Accent 1""/>
+  <w:LsdException Locked=""false"" Priority=""65"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium List 1 Accent 1""/>
+  <w:LsdException Locked=""false"" UnhideWhenUsed=""false"" Name=""Revision""/>
+  <w:LsdException Locked=""false"" Priority=""34"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" QFormat=""true"" Name=""List Paragraph""/>
+  <w:LsdException Locked=""false"" Priority=""29"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" QFormat=""true"" Name=""Quote""/>
+  <w:LsdException Locked=""false"" Priority=""30"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" QFormat=""true"" Name=""Intense Quote""/>
+  <w:LsdException Locked=""false"" Priority=""66"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium List 2 Accent 1""/>
+  <w:LsdException Locked=""false"" Priority=""67"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Grid 1 Accent 1""/>
+  <w:LsdException Locked=""false"" Priority=""68"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Grid 2 Accent 1""/>
+  <w:LsdException Locked=""false"" Priority=""69"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Grid 3 Accent 1""/>
+  <w:LsdException Locked=""false"" Priority=""70"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Dark List Accent 1""/>
+  <w:LsdException Locked=""false"" Priority=""71"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Colorful Shading Accent 1""/>
+  <w:LsdException Locked=""false"" Priority=""72"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Colorful List Accent 1""/>
+  <w:LsdException Locked=""false"" Priority=""73"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Colorful Grid Accent 1""/>
+  <w:LsdException Locked=""false"" Priority=""60"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Light Shading Accent 2""/>
+  <w:LsdException Locked=""false"" Priority=""61"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Light List Accent 2""/>
+  <w:LsdException Locked=""false"" Priority=""62"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Light Grid Accent 2""/>
+  <w:LsdException Locked=""false"" Priority=""63"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Shading 1 Accent 2""/>
+  <w:LsdException Locked=""false"" Priority=""64"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Shading 2 Accent 2""/>
+  <w:LsdException Locked=""false"" Priority=""65"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium List 1 Accent 2""/>
+  <w:LsdException Locked=""false"" Priority=""66"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium List 2 Accent 2""/>
+  <w:LsdException Locked=""false"" Priority=""67"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Grid 1 Accent 2""/>
+  <w:LsdException Locked=""false"" Priority=""68"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Grid 2 Accent 2""/>
+  <w:LsdException Locked=""false"" Priority=""69"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Grid 3 Accent 2""/>
+  <w:LsdException Locked=""false"" Priority=""70"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Dark List Accent 2""/>
+  <w:LsdException Locked=""false"" Priority=""71"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Colorful Shading Accent 2""/>
+  <w:LsdException Locked=""false"" Priority=""72"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Colorful List Accent 2""/>
+  <w:LsdException Locked=""false"" Priority=""73"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Colorful Grid Accent 2""/>
+  <w:LsdException Locked=""false"" Priority=""60"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Light Shading Accent 3""/>
+  <w:LsdException Locked=""false"" Priority=""61"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Light List Accent 3""/>
+  <w:LsdException Locked=""false"" Priority=""62"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Light Grid Accent 3""/>
+  <w:LsdException Locked=""false"" Priority=""63"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Shading 1 Accent 3""/>
+  <w:LsdException Locked=""false"" Priority=""64"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Shading 2 Accent 3""/>
+  <w:LsdException Locked=""false"" Priority=""65"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium List 1 Accent 3""/>
+  <w:LsdException Locked=""false"" Priority=""66"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium List 2 Accent 3""/>
+  <w:LsdException Locked=""false"" Priority=""67"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Grid 1 Accent 3""/>
+  <w:LsdException Locked=""false"" Priority=""68"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Grid 2 Accent 3""/>
+  <w:LsdException Locked=""false"" Priority=""69"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Grid 3 Accent 3""/>
+  <w:LsdException Locked=""false"" Priority=""70"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Dark List Accent 3""/>
+  <w:LsdException Locked=""false"" Priority=""71"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Colorful Shading Accent 3""/>
+  <w:LsdException Locked=""false"" Priority=""72"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Colorful List Accent 3""/>
+  <w:LsdException Locked=""false"" Priority=""73"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Colorful Grid Accent 3""/>
+  <w:LsdException Locked=""false"" Priority=""60"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Light Shading Accent 4""/>
+  <w:LsdException Locked=""false"" Priority=""61"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Light List Accent 4""/>
+  <w:LsdException Locked=""false"" Priority=""62"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Light Grid Accent 4""/>
+  <w:LsdException Locked=""false"" Priority=""63"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Shading 1 Accent 4""/>
+  <w:LsdException Locked=""false"" Priority=""64"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Shading 2 Accent 4""/>
+  <w:LsdException Locked=""false"" Priority=""65"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium List 1 Accent 4""/>
+  <w:LsdException Locked=""false"" Priority=""66"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium List 2 Accent 4""/>
+  <w:LsdException Locked=""false"" Priority=""67"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Grid 1 Accent 4""/>
+  <w:LsdException Locked=""false"" Priority=""68"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Grid 2 Accent 4""/>
+  <w:LsdException Locked=""false"" Priority=""69"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Grid 3 Accent 4""/>
+  <w:LsdException Locked=""false"" Priority=""70"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Dark List Accent 4""/>
+  <w:LsdException Locked=""false"" Priority=""71"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Colorful Shading Accent 4""/>
+  <w:LsdException Locked=""false"" Priority=""72"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Colorful List Accent 4""/>
+  <w:LsdException Locked=""false"" Priority=""73"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Colorful Grid Accent 4""/>
+  <w:LsdException Locked=""false"" Priority=""60"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Light Shading Accent 5""/>
+  <w:LsdException Locked=""false"" Priority=""61"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Light List Accent 5""/>
+  <w:LsdException Locked=""false"" Priority=""62"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Light Grid Accent 5""/>
+  <w:LsdException Locked=""false"" Priority=""63"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Shading 1 Accent 5""/>
+  <w:LsdException Locked=""false"" Priority=""64"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Shading 2 Accent 5""/>
+  <w:LsdException Locked=""false"" Priority=""65"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium List 1 Accent 5""/>
+  <w:LsdException Locked=""false"" Priority=""66"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium List 2 Accent 5""/>
+  <w:LsdException Locked=""false"" Priority=""67"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Grid 1 Accent 5""/>
+  <w:LsdException Locked=""false"" Priority=""68"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Grid 2 Accent 5""/>
+  <w:LsdException Locked=""false"" Priority=""69"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Grid 3 Accent 5""/>
+  <w:LsdException Locked=""false"" Priority=""70"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Dark List Accent 5""/>
+  <w:LsdException Locked=""false"" Priority=""71"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Colorful Shading Accent 5""/>
+  <w:LsdException Locked=""false"" Priority=""72"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Colorful List Accent 5""/>
+  <w:LsdException Locked=""false"" Priority=""73"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Colorful Grid Accent 5""/>
+  <w:LsdException Locked=""false"" Priority=""60"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Light Shading Accent 6""/>
+  <w:LsdException Locked=""false"" Priority=""61"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Light List Accent 6""/>
+  <w:LsdException Locked=""false"" Priority=""62"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Light Grid Accent 6""/>
+  <w:LsdException Locked=""false"" Priority=""63"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Shading 1 Accent 6""/>
+  <w:LsdException Locked=""false"" Priority=""64"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Shading 2 Accent 6""/>
+  <w:LsdException Locked=""false"" Priority=""65"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium List 1 Accent 6""/>
+  <w:LsdException Locked=""false"" Priority=""66"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium List 2 Accent 6""/>
+  <w:LsdException Locked=""false"" Priority=""67"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Grid 1 Accent 6""/>
+  <w:LsdException Locked=""false"" Priority=""68"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Grid 2 Accent 6""/>
+  <w:LsdException Locked=""false"" Priority=""69"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Medium Grid 3 Accent 6""/>
+  <w:LsdException Locked=""false"" Priority=""70"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Dark List Accent 6""/>
+  <w:LsdException Locked=""false"" Priority=""71"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Colorful Shading Accent 6""/>
+  <w:LsdException Locked=""false"" Priority=""72"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Colorful List Accent 6""/>
+  <w:LsdException Locked=""false"" Priority=""73"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" Name=""Colorful Grid Accent 6""/>
+  <w:LsdException Locked=""false"" Priority=""19"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" QFormat=""true"" Name=""Subtle Emphasis""/>
+  <w:LsdException Locked=""false"" Priority=""21"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" QFormat=""true"" Name=""Intense Emphasis""/>
+  <w:LsdException Locked=""false"" Priority=""31"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" QFormat=""true"" Name=""Subtle Reference""/>
+  <w:LsdException Locked=""false"" Priority=""32"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" QFormat=""true"" Name=""Intense Reference""/>
+  <w:LsdException Locked=""false"" Priority=""33"" SemiHidden=""false""
+   UnhideWhenUsed=""false"" QFormat=""true"" Name=""Book Title""/>
+  <w:LsdException Locked=""false"" Priority=""37"" Name=""Bibliography""/>
+  <w:LsdException Locked=""false"" Priority=""39"" QFormat=""true"" Name=""TOC Heading""/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ #URL_22932ad710cc8bab5012d10e1dc768a71064c391fef21e0fceddb0e7a66f97b6#
+	{mso-style-name:""Table Normal"";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"""";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:""Calibri"",""sans-serif"";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:""Times New Roman"";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--></p>
+<p>New to Final Expense? Veteran in Final Expense? </p>
+<p> </p>
+<p>Need a Change from Mortgage Protection, Annuities, MAPD's, <br> or Medicare Supplements?</p>
+<p>               </p>
+<p>Here is your chance to work with highly motivated sales experts to achieve the career of your dreams.</p>
+<p></p>
+<p>We are looking for someone who:</p>
+<p>Desires a challenging and rewarding experience</p>
+<p>Wants to become a career agent</p>
+<p>Eager to learn how to take their sales’ ability to the next level</p>
+<p></p>
+<p>We Want to Reward You with:               </p>
+<p>Top Quality Training</p>
+<p>In - Home Sales Support</p>
+<p>Commissions Paid Directly from Carrier</p>
+<p>Leads Financed for 10 Days</p>
+<p>Management Opportunities</p>
+<p>2 – Weekly Sales Training Calls</p>
+<p>10 Carriers              </p>
+<p>Commissions Paid Daily</p>
+<p></p>
+<p>Visit our website #URL_6acdf098750d3a9c8fb8f862c3c7f88bb882827f76c64338f6a438d5154ad301# to learn all of the perks final expense has to offer you!</p>
+<p>Call #PHONE_823ee2d9525b1fd44b0955e15b1ff155d4d48e69aa2165644aadc6cc4d659b78# Today!</p>
+<p></p>",,<p>Life Insurance License</p>,1,0,0.1199452594020343,False Negative,0.41005474059796576
+Maintenance Mechanic,"<p>Principal Responsibilities:</p>
+<p>1. Maintains safe and clean working environment by complying with procedures, rules, permit requirements and regulations. Ensures proper safety requirements are employed and communicated to contractors.</p>
+<p>2. Ensures continual operation of machinery and mechanical equipment by completing preventive maintenance requirements on pumps, motors, kettles, conveyors, and mixers; following diagrams, sketches, operations manuals, manufacturer's instructions, and engineering specifications; troubleshooting malfunctions.</p>
+<p>3. Locates sources of problems by observing mechanical devices in operation; troubleshooting for problems; using proper testing instruments.</p>
+<p>4. Removes defective parts by dismantling devices; using hoists, cranes, and hand and power tools; examining form and texture of parts.</p>
+<p>5. Adjusts functional parts of devices and control instruments by using hand tools, levels, plumb bobs, and straightedges.</p>
+<p>6. Controls downtime by prioritizing activities based upon production supervision requirements.</p>
+<p>7. Performs electrical repairs in accordance to Arc Flash safety requirements</p>
+<p>8. Performs required daily inspections on key equipment and completes documentation associated with the inspections as required.</p>
+<p>9. Conserves maintenance resources by using equipment and supplies as needed to accomplish job results.</p>
+<p>10. Performs emergency repairs as required and communicates any information associated with the repair to supervision.</p>
+<p>11. Contributes to team effort by accomplishing related results as needed.</p>
+<p>12. Contributes and adheres to Safety, Environments, Quality and EEO/AA Standard s of the Corporation, Division and location.</p>
+<p>13. Subject to provide a rotating on call service other than the employee’s normal shift.</p>",,"<p>The ideal candidate will possess strong competency in the following areas:</p>
+<p>- Equipment Maintenance</p>
+<p>- Technical Understanding</p>
+<p>- Dealing with Ambiguity</p>
+<p>- Basic Safety</p>
+<p>- Power Tools</p>
+<p>- Attention to Detail</p>
+<p>- Flexibility</p>
+<p>- Strong mechanical ability</p>
+<p>- Basic electrical trouble shooting skills</p>
+<p>Centrifical, gear, and diaphragm pump repair experience is preferred. PLC and simple controller experience is desired</p>
+<p>High School Diploma is required. A minimum of 5 years total of education, training, and/or experience which the following elements may be used to satisfy this requirement:</p>
+<p>–Registered apprenticeship, specialized training or certification in a relevant field</p>
+<p>–Academic education in a related technology area</p>
+<p>–Related work experience</p>",0,1,0.5570706862927886,False Positive,0.027070686292788526
+ Data Entry Representative,"<ul>
+<li>Responsible for reviewing details of tickets to ensure they contain the data required by customers.</li>
+<li>Monitors the bin movements to ensure the activity seen matches the paperwork provided</li>
+<li>Watches contract levels vs volume remaining in bins and reports any discrepancy to quality manager</li>
+<li>Provides ticket copies to customers as needed</li>
+<li>Answers any questions the customers may have on specific tickets</li>
+<li>Advises plant managers of any missing paperwork</li>
+<li>Collect paperwork from North and South Plant. </li>
+<li>Review bin information. To include sand being pulled from correct bin. Bin movement is in line with activity.</li>
+</ul><ul>
+<li>esponsible for reviewing details of tickets to ensure they contain the data required by customers.</li>
+<li>Monitors the bin movements to ensure the activity seen matches the paperwork provided</li>
+<li>Watches contract levels vs volume remaining in bins and reports any discrepancy to quality manager</li>
+<li>Provides ticket copies to customers as needed</li>
+<li>Answers any questions the customers may have on specific tickets</li>
+<li>Advises plant managers of any missing paperwork</li>
+<li>Collect paperwork from North and South Plant. Print items scanned from Amarillo</li>
+<li>Review bin information. To include sand being pulled from correct bin. Bin movement is in line with activity.</li>
+</ul><p>Requirements:  - See more at: #URL_1d7626d7c5ba3ff0d31c49d2adda5d517e38070ec37e61c84db213e32cefb616#~WQG~1318232T1~99/?utm_source=Indeed&amp;utm_medium=organic&amp;utm_campaign=Indeed&amp;id=2129##URL_7ecc8c08b19f903a44541e4f593f10d4b74fce2e474d104bb1a084463ed14145#</p>","<p>Our globally connected world has forced businesses to rethink how they communicate. Mobile lifestyles, a flood of technology, economic pressures and an “always on” mentality have created both opportunity and challenges for organizations of all sizes. <br><br>Mitel® (NASDAQ: MITL) (TSX: MNW) is a global leader in business communications that easily connect employees, partners and customers -- anywhere, anytime and over any device, for the smallest business to the largest enterprise. Mitel offers customers maximum choice with one of the industry’s broadest portfolios and the best path to the cloud. With more than US$1 billion in combined annual revenue, 60 million customers worldwide, and #1 market share in Western Europe, Mitel is a clear market leader in business communications.</p>","<p>HIGH SCHOOL DIPLOMA</p>
+<p>WORK GOOD ON A TEAM</p>",1,0,0.4933135867842153,False Negative,0.03668641321578475
+GREAT Bookkeeper Position Available,"<p>ARE YOU:</p>
+<p>•             A person of integrity with great people skills?</p>
+<p>•             A person with a positive outlook on life?</p>
+<p>•             Able to multi-task and work under pressure?</p>
+<p>•             Looking for full-time work with benefits?</p>
+<p>If so, look no further for your NEW CAREER!</p>
+<p>Our client, located in the beautiful San Fernando Valley, is looking to add a Bookkeeper to their Accounting Department ASAP!</p>
+<p>YOU WILL BE RESPONSIBLE FOR:</p>
+<p>•             Filing</p>
+<p>•             Invoicing using QuickBooks Pro</p>
+<p>•             Collections</p>
+<p>•             Financial statement preparation</p>
+<p>•             Payroll in house with all schedules</p>
+<p>•             Accounts Receivable</p>
+<p>•             Accounts payable</p>
+<p>•             Knowledge of Microsoft Office (Excel, Word, Outlook), including Excel spreadsheet projects</p>
+<p>•             Well organized, efficient and detail-oriented</p>
+<p>•             Punctual with a professional demeanor</p>
+<p> YOU NEED TO HAVE:</p>
+<p>•             5 years minimum – full charge bookkeeping experience</p>
+<p>•             Proficient with QuickBooks</p>
+<p>Salary:  37K</p>
+<p>Our client is looking to hire ASAP so do not delay or this opportunity will pass you by!</p>
+<p>To apply, simply respond to this posting with your resume for immediate consideration.</p>",,,0,1,0.658282054664517,False Positive,0.12828205466451692
+Social & Market Research Interviewers,"<p>Research Interviewers - Door-to-Door <br />Strictly No Selling Involved ! <br />If you are fluent in English, enjoy talking to people and have had <br />experience in a people-oriented role, then consider applying for <br />this market research interviewer role. You will be conducting door <br />to door interviews about lifestyle and media. </p>",,"<p>You must be well presented and reliable, with a mature attitude.</p>
+<p>You need a reliable car, mobile phone, be comfortable using computers/tablets and available <br />for door to door weekend work. <br /><br /></p>",0,1,0.5702095365340475,False Positive,0.04020953653404746
+Customer Service ,"<p>Our client is seeking an Customer Service with 1 plus years of experience.</p>
+<p>The ideal candidate must have</p>
+<p>-1 plus years of experience in the support role</p>
+<p>-Calendar, scheduling, correspondence, phones</p>
+<p>-Conference Planning, travel accommodations, hotel bookings, car rentals</p>
+<p>- Word, Excel and PowerPoint</p>",,"<p>Able to prioritize and work independently with minimal supervision<br>Able to work effectively in a team environment<br>Detail-oriented and the ability to follow up on tasks<br>Work effectively under pressure and maintain a positive attitude<br>Capable of multi-tasking, prioritizing, and managing time efficiently</p>",0,1,0.9078717525532456,False Positive,0.37787175255324557
+Patient Service Coordinator,"<p>JOB SUMMARY                                                                                                                                                                                                                                                             <br>                                                                                                                                                                                                                                                              <br> This position is responsible for assisting the physician in patient treatment issues, providing direct patient care, and maintaining proper standards of quality.                                                                                                                                                                                                                                                             <br>                                                                                                                                                                                                                                                              <br> MINIMUM REQUIREMENTS                                                                                                                                                                                                                                                             <br>                                                                                                                                                                                                                                                              <br> 1 - 3 years work experience                                                                                                                                                                                                                                                             <br> High School diploma or equivalent and two (2) years of related experience required.                                                                                                                                                                                                                                                             <br> Knowledge of supplies and equipment ordering and inventory control                                                                                                                                                                                                                                                             <br> Organizational skills                                                                                                                                                                                                                                                             <br> Written and verbal communication skills                                                                                                                                                                                                                                                             <br> Analytical skills                                                                                                                                                                                                                                                             <br> Interpersonal skills                                                                                                                                                                                                                                                             <br> Knowledge and experience in healthcare                                                                                                                                                                                                                                                             <br> Ability to multi-task                                                                                                                                                                                                                                                             <br> Ability to work as part of a team                                                                                                                                                                                                                                                             <br> Ability to problem-solve                                                                                                                                                                                                                                                             <br>                                                                                                                                                                                                                                                              <br>                                                                                                                                                                                                                                                              </p>",,,0,1,0.7573893484083176,False Positive,0.2273893484083176
+Customer Service Representative,"<p><b>Job Description:</b><br> Allied Secured Benefits is looking for motivated people to join our team of Customer Service Representatives. <br><br> If you are passionate about helping people, you may be a good fit for our Customer Service Representative position. This is a Telecommute position, which means you can work from anywhere. <br><br><b>General Responsibilities:</b><br> As a Customer Service Representative for Allied Secured Benefits, you will help manage Customer Accounts, respond to email inquiries, and help Customers sign up for the service that best suits their needs.</p>",,<p>Basic Computer Skills <br><br> A Good Phone Voice <br><br> Knowledge of Email</p>,0,1,0.7402490418192846,False Positive,0.2102490418192846
+Cardiovascular Technologist,"<p>Description                                                                                                                                                                                                                                                             <br>                                                                                                                                                                                                                                                               <br> Under indirect supervision, operates in an in- or out-patient setting an electrocardiograph in order to record the actions of the heart muscle for use in the diagnosis of heart ailments. Assists w/ cardiology procedures including but not limited to ambulatory EKG monitoring/scanning, exercise stress testing, pacemaker monitoring. Also performs related functions including clerical duties, maintaining equipment &amp; other duties. Responds to emergency situations as required.                                                                                                                                                                                                                                                             <br>                                                                                                                                                                                                                                                              <br> Essential Functions:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <br> • Greets patients in a pleasant &amp; professional manner                                                                                                                                                                                                                                                             <br> • Prepares &amp; explains procedures to patient                                                                                                                                                                                                                                                             <br> • Operates EKG equipment, including specialized equipment                                                                                                                                                                                                                                                             <br> • Applies lead placements to patient                                                                                                                                                                                                                                                             <br> • Prepares EKG tracing for interpretation indicating the required information (age, PF number, telephone number etc)                                                                                                                                                                                                                                                             <br> • Responds to all acute emergency situations                                                                                                                                                                                                                                                             <br> • May assist &amp; prepare patients for the following procedures: Holter Hook-Up, Treadmill, &amp; IPG                                                                                                                                                                                                                                                             <br> • Participates in non-invasive procedures such as pacemaker clinics, Holter monitors, treadmills, &amp; cardiac profusion tests                                                                                                                                                                                                                                                             <br> • Maintains equipment in operating order &amp; notifies supervisor of needed repairs                                                                                                                                                                                                                                                             <br> • Prepares paperwork &amp; EKG for physician interpretation of hospitalized patient                                                                                                                                                                                                                                                             <br> • Maintains files, makes copies of cardiac procedures &amp; assists w/ any other paperwork as required                                                                                                                                                                                                                                                             <br> • Maintains a safe and orderly work area                                                                                                                                                                                                                                                             <br> • Answers telephone &amp; relays messages                                                                                                                                                                                                                                                             <br> • Establishes &amp; maintains courteous &amp; cooperative relations w/ the public, patients &amp; other personnel                                                                                                                                                                                                                                                             <br> • Performs other related duties as required                                                                                                                                                                                                                                                             <br>                                                                                                                                                                                                                                                              <br> Qualifications                                                                                                                                                                                                                                                             <br>                                                                                                                                                                                                                                                              <br> Basic Qualifications:                                                                                                                                                                                                                                                             <br> • Minimum one (1) year of experience as an EKG Tech in non-invasive cardiology procedures within the last three (3) years                                                                                                                                                                                                                                                             <br> • Valid BLS card                                                                                                                                                                                                                                                             <br> • Demonstrated ability to recognize and report artifacts and basic dysrhythias                                                                                                                                                                                                                                                             <br> • Ability to perform all procedures including scanning, pacemaker, regular and thallium treadmills                                                                                                                                                                                                                                                             <br> • Ability to operate complex specialty equipment                                                                                                                                                                                                                                                             <br>                                                                                                                                                                                                                                                              <br>                                                                                                                                                                                                                                                              </p>",,,0,1,0.6685314764343786,False Positive,0.13853147643437858
+Urgent Need :Oracle Developer for Bahrain.,"<p><b>Greetings from VAM SYSTEMS…..</b></p>
+<p><b>VAM SYSTEMS</b> is a Business Consulting, IT Technology Solutions and Services company with operations in UAE, Qatar, Bahrain, USA, Australia, Singapore &amp; India. We offers a comprehensive list of services in the field of IT infrastructure management, Cloud services, IT Consulting Services, Banking, Management Resources, Information Technology Development, Telecom, Aviation, Retail Management &amp; Government offerings.</p>
+<p><b>VAM SYSTEMS</b> is currently looking for <b>Oracle Developer</b> for our<b> Bahrain</b> operations .</p>
+<p><b>Terms and conditions:</b> <b> </b></p>
+<p><b>Joining time frame:</b>   <b>2 weeks (maximum 1 month).</b></p>
+<p><b>The selected candidates shall join VAM SYSTEMS – Bahrain and shall be deputed to one of the leading organizations in </b><b>Bahrain.</b></p>
+<p><b> </b></p>
+<p><b> </b></p>
+<p><b> </b></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>","<p><b>VAM SYSTEMS</b> is a Business Consulting, IT Solutions and Services company with operations in UAE, Qatar, Bahrain, USA, Australia, Singapore &amp; India. . We offers a comprehensive list of services in the field of IT infrastructure management, Cloud services, IT Consulting Services, Banking, Management Resources, Information Technology Development, Telecom, Aviation, Retail Management &amp; Government offerings.</p>","<p><b>Skill Set required:</b></p>
+<ul>
+<li>Should have minimum 8+ years of experience.</li>
+<li>Should have experience in forms 11g &amp; reports 11g.</li>
+<li>Should have experience in  oracle weblogic</li>
+<li>Migration experience from Forms 6i to 11 g will be an additional advantage<b> </b></li>
+</ul>",0,1,0.6233686030874892,False Positive,0.09336860308748918
+Junior Project Manager,<p>Descripción de prueba</p>,,<p>Descripción de prueba</p>,1,0,0.2413606741679674,False Negative,0.28863932583203267
+Bilingual Retail Demonstrator,"<p>Dyson demonstrators work part-time as members of the Field Sales team to engage consumers in an energetic and confident manner and provide them with knowledgeable information about Dyson products in select retail locations (i.e. Costco, Bed Bath and<br>Beyond and Best Buy) or events across the United States. The most important part of a Demonstrators’ job is to create a positive experience with the store and the consumers; assisting in the sale of Dyson products to achieve company specified sales goals. Demonstrations occur on Saturdays, Sundays and some weekday holidays. Demonstrators must work a minimum of 3 out of 4 weekends per month within an assigned market. </p>
+<p>We are in need of bilingual (English &amp; Spanish) Demonstrators.</p>
+<p></p>
+<p><b>Pay:</b> $20.00/hr</p>
+<p> </p>
+<p><b>Duties and Responsibilities: </b></p>
+<p>•  Conduct planned demonstrations in assigned retail stores to achieve specified sales goals</p>
+<p>•  Capture consumers’ attention to participate in high energy, captivating in-store demonstrations and model all aspects of Dyson’s brand, culture, and passion for technology</p>
+<p>•  Be a credible product and brand expert by educating consumers on the benefits and features of Dyson products and actively listening to consumers to confidently recommend appropriate Dyson products and comfortably over objections</p>
+<p>•  Increase overall awareness and sales of Dyson products through in store and event demonstrations</p>
+<p>•  Actively monitor Dyson’s online reporting system to contribute quality feedback and report/confirm attendance</p>",,"<p><b>Qualifications Needed:</b></p>
+<p>•  HS Diploma or GED required</p>
+<p>•  Experience in a retail sales environment required</p>",1,0,0.1236037846936608,False Negative,0.40639621530633924
+Sr Customer Care Executive,"<p>US Outbound process</p>
+<p>fixed shift - 6.00 pm 3.00 pm</p>
+<p>fixed sat &amp; sun off</p>
+<p></p>",,"<p>min 15 months of international voice experience</p>
+<p>good communication skills</p>
+<p></p>",0,1,0.72164258518794,False Positive,0.19164258518793997
+Writers,"<p>We are a company looking for qualified individuals to help out with<br>writing tasks such as:<br>- Short stories<br>- Movie scripts<br>- Sales scripts<br>- Articles<br>- News feeds<br>- PR websites<br>-Blog posts<br>... and more.</p>
+<p><b>Job Duties Include:</b><br>- Drafe and create consumer content for lifestyle and health related websites<br>- Research new products and services with the relation to the consumers<br>- Create projects for blogs and other new media<br>- Brand messages with reaching a large online audience<br>You'll have the opportunity to work big name companies and popular websites in several niches from news, geography, sports, entertainment, travel, and others.</p>
+<p><b>Qualifications:</b><br>- High-school Graduate or GED qualified with an interest in writing for blogs, stories, and other publications<br>- Experience in Journalism, English, Communications or other related fields<br>- Strong written communication skills with ability to proofread effectively<br>- Ability to manage multiple projects<br>- Experience with Microsoft Office (Word, PowerPoint, Outlook, Excel)<br>- Internet acces / Online access (THIS IS A MUST)</p>
+<p>This is a part-time and full-time job, depending on you availability.<br>Hours are flexible from 10 to 40 hours per week.<br>Travel is not required. Pay is discussed via communication after application process.</p>
+<p>Please email ""#EMAIL_d9fc2207d30a7b527f02e9d8d3fd4a932e9035642431db6343c0db6cd21a2804#"" with your full name and resume. We will contact you shortly after within 24 hours</p>",,"<p>We are a company looking for qualified individuals to help out with<br>writing tasks such as:<br>- Short stories<br>- Movie scripts<br>- Sales scripts<br>- Articles<br>- News feeds<br>- PR websites<br>-Blog posts<br>... and more.</p>
+<p>Job Duties Include:<br>- Drafe and create consumer content for lifestyle and health related websites<br>- Research new products and services with the relation to the consumers<br>- Create projects for blogs and other new media<br>- Brand messages with reaching a large online audience<br>You'll have the opportunity to work big name companies and popular websites in several niches from news, geography, sports, entertainment, travel, and others.</p>
+<p>Qualifications:<br>- High-school Graduate or GED qualified with an interest in writing for blogs, stories, and other publications<br>- Experience in Journalism, English, Communications or other related fields<br>- Strong written communication skills with ability to proofread effectively<br>- Ability to manage multiple projects<br>- Experience with Microsoft Office (Word, PowerPoint, Outlook, Excel)<br>- Internet acces / Online access (THIS IS A MUST)</p>
+<p>This is a part-time and full-time job, depending on you availability.<br>Hours are flexible from 10 to 40 hours per week.<br>Travel is not required. Pay is discussed via communication after application process.</p>
+<p>Please email ""#EMAIL_d9fc2207d30a7b527f02e9d8d3fd4a932e9035642431db6343c0db6cd21a2804#"" with your full name and resume. We will contact you shortly after within 24 hours</p>",1,0,0.3520797162001532,False Negative,0.1779202837998468
+Urgent position for SQL BI Tester,"<p><b>SQL BI Tester</b></p>
+<p><b> </b>Location: Redmond, WA</p>
+<p>Duration: 6+ Months</p>
+<p> </p>
+<p>This is a typical SQL database &amp; ETL tester role that we have fulfilled in the past,</p>
+<p></p>",,"<p> <b>Mandatory:</b></p>
+<ul>
+<li>Experience working in a waterfall SDLC projects in the area of Database and ETL</li>
+<li>Strong technical skills with Microsoft SQL Server Database and SSIS</li>
+<li>Strong communications skills</li>
+<li>Experience working in large enterprise environment working with multiple upstream and downstream system test teams to carry out system integration testing</li>
+<li>Experience with designing and creating test scenarios, test cases/scripts and executing</li>
+</ul>",1,0,0.1586013723704897,False Negative,0.3713986276295103
+"Hiring Registered Nurses: F/T, P/T & Per Diem. $38-$45/hour","<p>Currently hiring for the following positions for hospitals and healthcare facilities throughout Houston.</p>
+<p><b>Open positions:</b></p>
+<p>• Director of Nursing • Registered Nurse • Registered Nurse-Home Health • Registered Nurse-ICU, Emergency Room</p>
+<p></p>","<p>TAA (Talent Advertising Agency) Creative Group is a fast-paced, talent development and recruiting firm. We place highly qualified sales, medical and management professionals with employers across the nation.</p>
+<p>You can visit our websites for more information: <a href=""#URL_4d0198c7517abb9ab4459c6b8cae8b880a52ded056ae9e4c5e7f781fcb5ee5c8#"" rel=""nofollow"" class=""external"">#URL_4d0198c7517abb9ab4459c6b8cae8b880a52ded056ae9e4c5e7f781fcb5ee5c8#</a></p>","<p><b>Available shifts include:</b></p>
+<p>• Per Diem CVICU • Per Diem-Medical Surgical • Per Diem-Emergency Department (ER) (ED) • Per Diem-intensive Care Unit • Locum Tenum - (4wk-13wk) CVICU • Locum Tenum - (4wk-13wk)-Medical Surgical • Locum Tenum - (4wk-13wk)-Emergency Department (ER) (ED) • Locum Tenum - (4wk-13wk)-intensive Care Unit</p>
+<p>• Home Health. Full time and part time •13 Week- L&amp;D, Post-Partum &amp; Nursery RN's</p>
+<p></p>",0,1,0.6227097006206583,False Positive,0.09270970062065831
+Out Bound Appointment Setters - ,"<p>We are setting up interviews ASAP looking to fill 6 positions<br>For people who are ready to start mid next week! This is not a call center position. It is located in our corporate headquarters in S.W. Portland and on tri met lines. <br>This position requires:<br><br>* A strong desire to excel and succeed<br>* Previous outbound telephone experience<br>* Good phone skills and communication skills<br>* Be a Professional<br>What does this position offer? <br>WE are just a couple blocks from TRI MET Transit center!<br>* Strong advancement opportunities<br>* Fantastic pay plan with bonuses and commission structure<br>* Professional work environment <br>* Part time work and available Monday thru Friday<br>Please forward your resume for immediate consideration.<br>Perfect for college students or homemakers great schedule!<br>Earn Average of $18.00 to $24.00 hr average if you can do this job!</p>
+<p><a href=""https://m.#URL_51cd2e89e5dce6501037580c518c8c837fc2db69d8e5acad0e8e142cdf986399#?v=Q0vbXlcj10M"" rel=""nofollow"" class=""external"">https://m.#URL_51cd2e89e5dce6501037580c518c8c837fc2db69d8e5acad0e8e142cdf986399#?v=Q0vbXlcj10M</a></p>","<p>Positive upbeat atmosphere</p>
+<p>Ongoing mentor ship by one of the Nation's leading Realtor's</p>
+<p>Excellent Technology for lead management</p>
+<p>5 to 7 pre approved pre qualified leads average weekly</p>","<p>A strong desire to excel and  succeed</p>
+<p>Previous outbound Telephone experience</p>
+<p>Good phone skills and communication skills</p>
+<p>Be a professional</p>",0,1,0.5325378658310355,False Positive,0.002537865831035435
+Legal Assistant/Secretary,"<p>A Distinguished Law Firm specializing in Personal Injury, Social Security Disability, and Criminal Defense matters is actively seeking an experienced Legal Assistant/Secretary for their modern St. Petersburg office. The Legal Assistant/Secretary will serve as the initial point of contact for new client inquiries and provide administrative support in a fast paced environment.</p>",,"<p>Must have High School Diploma, some college course work, preferred.</p>
+<p>Have prior experience working in a professional office environment.</p>
+<p>Knowledge of Social Security Administration online appeal process, preferred.</p>
+<p>Must have working knowledge of case management software, Florida Circuit Civil Court System, and e-filing.</p>
+<p>Working knowledge of CJIS, preferred.</p>
+<p>Knowledge of medical terminology, preferred.</p>
+<p>Possess excellent verbal and written communication skills.</p>
+<p>Have the ability to multitask with accuracy handling time sensitive documents and deadlines.</p>
+<p>Perform dictation and transcription accurately and with proper spelling and grammar.</p>
+<p>Have prior experience processing phone calls in a high volume environment.</p>
+<p>Possess strong customer service, client relations, and appointment setting skills.</p>
+<p>Must have a strong sense of urgency and ability to manage highly sensitive and stressful situations.</p>
+<p>Have the ability to extract pertinent, confidential information with a high degree of diplomacy and business acumen.</p>
+<p>Possess excellent inter-personal, organizational, analytical and problem solving skills, with the ability to multitask.</p>
+<p>Must be able to type at least 50-60 wpm, accurately.</p>
+<p>Have working knowledge of MS Word/Excel/Outlook (intermediate level user).</p>
+<p>Have the ability to work independently with little supervision, a self-starter.</p>
+<p>Have the ability to effectively read, write, speak and comprehend English.</p>",0,1,0.6274043222404982,False Positive,0.09740432224049822
+Accounting Assistant,"<p>We know your career is among the most important things in your life. Our company is currently seeking a Assistant Accountant.</p>
+<p></p>
+<p>The role will involve, but will not be limited to:</p>
+<p></p>
+<p>-Collating, analysing and challenging information provided in support of claims.</p>
+<p>-Undertake financial analysis for quantification of damages/losses and extrapolation of data.</p>
+<p>-Client liaison and provision of expert advice.</p>
+<p>-Communication and liaison with insurance companies and to external clients.</p>
+<p> Work times:</p>
+<p></p>
+<p>Monday to Friday.</p>
+<p>The first you will have a trial period. Possible training.</p>
+<p></p>
+<p>This is the perfect opportunity for a technically minded accountant eager to step into a rapidly growing organisation, and play a pivotal part in their expansion plans.</p>
+<p></p>
+<p>Please send your resume with your contact-email to <a href=""mailto:#EMAIL_00e35a10817c0d8e20fb7b138204884f53bb960cf21350f2232d5cb7cd8ff070#"">#EMAIL_00e35a10817c0d8e20fb7b138204884f53bb960cf21350f2232d5cb7cd8ff070#</a></p>",,"<p>The successful candidate will have highly developed administration skills, excellent attention to detail and the ability to organise and prioritise tasks effectively. Ideally you will come from a shipping or supply chain and have experience working in a fast paced environment. Strong verbal and written communication skills are a must as you will be dealing with key internal and external stakeholders. High level of computer literacy and strong knowledge and experience using MS Excel and MS Word is highly desirable.</p>",0,1,0.7393075368295421,False Positive,0.20930753682954206
+Project Accountant Asst,"<p>Responsibilities:                                                                                                                                                                                                                                                             <br>                                                                                                                                                                                                                                                              <br> Conducts high-level reviews of income and expenditures and the follow-on tracking of these line items                                                                                                                                                                                                                                                             <br> Analyzes commercial companies’ books and records                                                                                                                                                                                                                                                             <br> Tracks and accounts dollars spent through budgeting and forecasting                                                                                                                                                                                                                                                             <br>                                                                                                                                                                                                                                                              <br> Minimum Requirements                                                                                                                                                                                                                                                             <br>                                                                                                                                                                                                                                                              <br> Candidates must have 1-3 years of experience in accounting and/or bookkeeping, to include ability to read and analyze revenue, cost, A/R, A/P, etc.                                                                                                                                                                                                                                                             <br> Ability to budget and forecast                                                                                                                                                                                                                                                             <br> HS Diploma/GED/Relevant education/training                                                                                                                                                                                                                                                             <br>                                                                                                                                                                                                                                                              <br>                                                                                                                                                                                                                                                              </p>",,,0,1,0.6914774980614354,False Positive,0.1614774980614354
+Tax Clerk,"<p><b>Job Description:</b></p>
+<p>The Tax Clerk will perform general accounting duties as well as office duties for the Tax Department.</p>
+<ul>
+<li>Ability to Deal with extremely confidential material.</li>
+<li>Perform General Ledger Duties.</li>
+<li>Bookkeeping duties on several smaller entities within the company.</li>
+<li>Assist with oil &amp; gas working interest accounting.</li>
+<li>Assist with the proper handling of oil &amp; gas joint interest billings and revenue checks, including proper maintenance of online and off line oil &amp; gas files.</li>
+<li>Reconciliation of bank statements: Various partnerships.</li>
+<li>Maintain Tax Files: Responsible to keep files in pristine order, make new files as needed and file all refiles in a timely manner.</li>
+<li>Carry out General Office Duties: These duties will include but not be limited to scanning, ordering supplies, making copies, shredding documents</li>
+<li>Providing other assistance and support to the Tax Department as needed</li>
+</ul><p><b>Competency</b><br>To perform the job successfully, an individual should demonstrate the following competencies:</p>
+<ul>
+<li>Organizational Skills – Prioritizes and plans work activities.</li>
+<li>Organizational Support - Follows policies and procedures; Completes administrative tasks correctly and on time; Supports organization's goals and values.</li>
+<li>Analytical - Collects and researches data</li>
+<li>Attendance/Punctuality - Is consistently at work and on time</li>
+<li>Quality - Demonstrates accuracy and thoroughness with particular attention to detail</li>
+<li>Quantity - Meets productivity standards</li>
+<li>Safety and Security - Observes safety and security procedures</li>
+</ul><p></p>","<p>Seismic Exchange, Inc. (SEI) is a prime source of premium 2D and 3D seismic data for the upstream oil and gas industry. We have an extensive proprietary seismic data library of: <br><br></p>
+<ul>
+<li>Over 1,650,000 miles of 2D data, </li>
+<li>Over 35,000 square miles of onshore 3D data, and -Over 20,000 square miles of offshore 3D data </li>
+<li>Over 20,000 square miles of offshore 3D data </li>
+</ul><p><br>Our 2D and 3D onshore seismic library includes large quantities of data within the major oil basins, with the heaviest concentrations in the Gulf Coast area. Additionally, our 2D library includes significant volumes of data within the major shale trends. Our offshore library is heavily focused on the Gulf of Mexico, with data in the Atlantic and Pacific coastal regions as well. We are focused on continuing to grow our 2D and 3D libraries through a combination of strategic seismic data purchases and new seismic acquisition in active areas. <br><br>We take pride in providing the following services to the upstream oil and gas industry: <br><br></p>
+<ul>
+<li>Seismic Data Marketing Services </li>
+<li>Seismic Data Licensing and Client Services </li>
+<li>Field Acquisition Management Services </li>
+</ul><p><br>SEI’s corporate headquarters are located in Houston, Texas, and SEI serves the oil and gas industry with offices located in New Orleans, Dallas, Denver, Tulsa, and Corpus Christi, and with a strong presence in Lafayette, Jackson, Midland, and Bakersfield. <br><br>We stand ready, leading with integrity, a history of success, and a staff of experienced and innovative professionals. Won’t you let us help you find one?</p>","<p><b>Qualifications</b><br>To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</p>
+<p><b>Education/Experience</b><br>Associate's degree (A. A.) or equivalent from two-year college or technical school; or one to two years related experience and/or training; or equivalent combination of education and experience.</p>
+<p><b>Language Ability</b></p>
+<ul>
+<li>Ability to read and interpret documents such as safety rules, operating and maintenance instructions, and procedure manuals.</li>
+<li>Ability to speak effectively before groups of customers or employees of organization.</li>
+</ul><p><b>Math Ability</b></p>
+<ul>
+<li>Ability to add, subtract, multiply, and divide all units of measure, using whole numbers, common fractions, and decimals.</li>
+<li>Ability to perform basic bookkeeping in keeping with accounting practices.</li>
+<li>Ability to compute rate, ratio, and percent and to draw and interpret bar graphs.</li>
+</ul><p><b>Reasoning Ability</b></p>
+<ul>
+<li>Ability to solve practical problems.</li>
+<li>Ability to interpret a variety of instructions furnished in written, oral, diagram, or schedule form.</li>
+</ul><p><b>Computer Skills</b></p>
+<ul>
+<li>To perform this job successfully, an individual should have strong MS Word and Excel knowledge.</li>
+</ul>",0,1,0.5361292811193,False Positive,0.006129281119300001
+Medical Receptionist/Scheduler,"<p>Medical Receptionist/Scheduler (Cleburne)</p>
+<p>We are looking for a Medical Receptionist/Scheduler for our front office with at least two years experience, behavioral health exp preferred (but not required). Bilingual Preferred.  Opportunity to join our fast-growing behavioral health team in Cleburne. This is a full-time 32 hr position, with opportunities for growth. We are looking for a highly-organized, outgoing, positive self-starter with ability to provide excellent  and dependable customer service.</p>",,"<p>The candidate must possess excellent customer service skills and have expertise with patient registration, scheduling, billing, insurance verification, taking copays and/or financial counseling in a health care environment. Must demonstrate proficiency with Microsoft Office. If you are technology-challenged, this might not be the job for you.</p>
+<p><br>As part of the office workflow, the successful applicant will have the ability to independently recognize, evaluate, and solve problems and correct errors. Must be able to manage time well and work independently. A candidate must maintain superior organization skills, and follow through on all daily tasks to completion. Must have excellent grammar and communication skills, as well as an understanding of HIPPA privacy laws.</p>
+<p></p>",0,1,0.5500570730744919,False Positive,0.020057073074491893
+Webcam Model,"<p>Internet Modeling is a premier adult modeling agency recruiting and hiring webcam models for high paying webcam jobs.</p>
+<p>We are one of the oldest and most experienced online modeling agencies, representing webcam models since 1998. Our agency recruits for the largest network of adult websites such as #URL_7c618854292c1f4fe07b7bc848323c068e2d9c12d58c214d9120a1d491e9971c# and many others<a href=""#URL_6bfa7e17027fa877b97dc4ef68c58fa9cc1420d892dc73e0acf48e1c92ee208f#""></a>, with over five million visitors per day, so our cam models make the most money. We have many immediate <i>webcam job</i> openings for all types of camgirls and camguys, so you can become a webcam model, and start to make money webcam modeling in as little as a few days. Being a webcam model is one of the few jobs where you can make great money from the comfort of your own home while having fun!</p>
+<p>#URL_11ac604d942dee77d69c63d9e052daaf0b2cf204ec8484d5fd3ef2f998114c2f#</p>",,"<p><b>In order to be considered for a webcam model position, you MUST:</b> - Be an attractive female or male over the age of 18 with a private place to work.<br> - Be friendly, open minded, and feel comfortable in front of the camera.<br> - Have a scanned image of a valid Driver's License, Passport, or other legal proof of age.<br> - Have a computer with a P4 dual core or higher processor, and at least 1GB of RAM.<br> - Have a high speed broadband Internet connection.<br> - Have a good quality WEBCAM and MICROPHONE</p>",1,0,0.4444225748956484,False Negative,0.08557742510435162
+Customer Service Representative,"<p><b>Job Description:</b><br> Allied Secured Benefits is looking for motivated people to join our team of Customer Service Representatives. <br><br> If you are passionate about helping people, you may be a good fit for our Customer Service Representative position. This is a Telecommute position, which means you can work from anywhere. <br><br><b>General Responsibilities:</b><br> As a Customer Service Representative for Allied Secured Benefits, you will help manage Customer Accounts, respond to email inquiries, and help Customers sign up for the service that best suits their needs.</p>",,<p>Basic Computer Skills <br><br> A Good Phone Voice <br><br> Knowledge of Email</p>,0,1,0.7324244958657357,False Positive,0.20242449586573563
+Writers,"<p>We are a company looking for qualified individuals to help out with<br>writing tasks such as:<br>- Short stories<br>- Movie scripts<br>- Sales scripts<br>- Articles<br>- News feeds<br>- PR websites<br>-Blog posts<br>... and more.</p>
+<p><b>Job Duties Include:</b><br>- Draft and create consumer content for lifestyle and health related websites<br>- Research new products and services with the relation to the consumers<br>- Create projects for blogs and other new media<br>- Brand messages with reaching a large online audience<br>You'll have the opportunity to work big name companies and popular websites in several niches from news, geography, sports, entertainment, travel, and others.</p>
+<p><b>Qualifications:</b><br>- High-school Graduate or GED qualified with an interest in writing for blogs, stories, and other publications<br>- Experience in Journalism, English, Communications or other related fields<br>- Strong written communication skills with ability to proofread effectively<br>- Ability to manage multiple projects<br>- Experience with Microsoft Office (Word, PowerPoint, Outlook, Excel)<br>- Internet acces / Online access (THIS IS A MUST)</p>
+<p>This is a part-time and full-time job, depending on you availability.<br>Hours are flexible from 10 to 40 hours per week.<br>Travel is not required. Pay is discussed via communication after application process.</p>
+<p>Please email ""#EMAIL_d9fc2207d30a7b527f02e9d8d3fd4a932e9035642431db6343c0db6cd21a2804#"" with your full name and resume. We will contact you shortly after within 24 hours</p>",,,1,0,0.4185195956071787,False Negative,0.11148040439282131
+Data Analyst,"<p>To work on analytics modelling using desktop and programming tools (R, SPSS) on business data in a financial investment institution.</p>",,,0,1,0.5820035670015286,False Positive,0.05200356700152853
+Data Center Migration App Lead for FULL-TIME Opportunity.,"<p>Data Center Migration Application Lead / Architect – must have prior <b>large data center</b> and <b>applications migrations experience</b></p>
+<p><b>10-15 Years</b> of Experience / <b>10+Years</b> of experience in infrastructure /data center /application migration</p>
+<p>Knowledgeable of Tools required (e.g. <b>Platespin, BMC ADDM</b> etc.) to support data gathering and migration</p>
+<p>• The <b>Migration Lead Engineer</b> must be experienced and proficient in producing complex migration strategies and supporting artifacts including requirements discovery and analysis. The formulation of solution context, identification of solution alternatives and their assessment, technology selection, and final Execution plans.</p>",,,1,0,0.2979081055413526,False Negative,0.23209189445864742
+Customer Service ,"<p>We are a canary wharf based e-commerce company and are recruiting for a full time customer service administrator.   This is a contractor role.</p>
+<p>The successful candidate will ideally have previous customer service experience and have good verbal and written communication skills.</p>
+<p>Duties includes</p>
+<p>-Telephone and email customer service</p>
+<p>-Processing information on database</p>
+<p>-General administrative task</p>",,,0,1,0.6745731275601478,False Positive,0.14457312756014773
+User Experience Designer | Mobile,<p>We are looking for UX Designer to help us continuously innovate and revamp our products to keep us at the top of the market.</p>,,"<p>Be adept and experienced in various User Research and Usability Testing Methodologies</p>
+<p></p>
+<p>·       Understand and Analyze User Research Data to determine UX Key Differentiators</p>
+<p></p>
+<p>·       Conduct Usability Reviews &amp; Competitive Evaluation of Mobile Apps</p>
+<p></p>
+<p>·       Generate User Scenarios based on domain understanding and analysis</p>
+<p></p>
+<p>·       Define Navigation Models and Information Architecture for Mobile Apps</p>
+<p></p>
+<p>·       Define workflows through paper prototypes, conceptual sketches or Storyboards</p>
+<p></p>
+<p>·       Create wireframes with detailed Interactions and with a focus on Attention to Detail</p>",1,0,0.2055848427793196,False Negative,0.32441515722068043
+Process Validation Project Manager ,"<ul>
+<li>Responsibility for the project management of assembly and packaging processes for manufacturing Sample Collection products/devices.</li>
+<li>Responsibility for supporting new product introductions with the concepting, prototyping and commercialization of new equipment technology.</li>
+<li>Works closely with Design, R&amp;D Marketing and manufacturing plants to implement manufacturing technology.</li>
+<li>Under the Engineering Manager Assembly, Contractor will be responsible for the project management of the concepting, prototyping, design, build and commercialization of new process equipment.</li>
+<li>Develops and executes the technical and business strategy to accomplish project goals.</li>
+<li>Provides the process technology leadership for assembly on the multifunctional project teams focused on new product implementation.</li>
+<li>Supports manufacturing plants in cost reduction, standardization and equipment upgrade projects.</li>
+<li>Develops capital and product cost analysis; writes and submits capital appropriations;</li>
+</ul>","<p><a href=""#URL_1152834047475221b1ad590ea4f639128912a655c4982536d9651091dd3e9faa#"" rel=""nofollow"" class=""external"">Maynard Consulting Company </a>has more than 20 years experience in the biotechnology, pharmaceutical, medical device, chemical, and validation engineering fields. In addition, we have over 10 years in project management, software engineering, telecommunication, testing, and networking engineering.  MCC partners with skilled candidates to meet and exceed their career expectations.</p>","<ul>
+<li>10+ years’ experience in high-speed automated equipment development or high volume manufacturing industry; healthcare, food products or pharmaceutical industry experience preferred.</li>
+<li>Experience in organizing and leading multi-function teams .</li>
+<li>Demonstrated capability in project management, with experience on large capital projects related to high-speed automated equipment development .</li>
+<li>Experience working in a development environment, with an understanding of process design, process capability and manufacturing cost analysis .</li>
+<li>Working knowledge of Good Manufacturing Practices and Six Sigma.</li>
+<li>#URL_7e94b9dc45c2319c1dffe1d1646563b8cf079c66d210b9bb860f4f51783ffb03#</li>
+</ul>",1,0,0.2554918079002335,False Negative,0.2745081920997665
+Urgent Need : IT Security Professional for Bahrain,"<p><i><b>Greetings from VAM SYSTEMS…..</b></i></p>
+<p><i><b>VAM SYSTEMS</b> is a Business Consulting, IT Solutions and Services company with operations in UAE, Qatar, Bahrain, USA, Australia, Singapore &amp; India. We offers a comprehensive list of services in the field of IT infrastructure management, Cloud services, IT Consulting Services, Banking, Management Resources, Information Technology Development, Telecom, Aviation, Retail Management &amp; Government offerings.</i></p>
+<p><i><b>VAM SYSTEMS</b> is currently looking for <b>IT Security Professional</b> for our<b> Bahrain</b> operations with the following skill set and terms and conditions:</i></p>
+<p><i><b>Skill Set required:</b></i></p>
+<ul>
+<li><i>Strong experience in IT Security, Vulnerability assessment &amp; penetration testing and Technical audit.</i></li>
+<li><i>Experience in firewall, routers and switches configuration.</i></li>
+<li><i>Experience in reviewing or creating Information Security (ISMS) Policy, Business Continuity Plan, Vendor Policy, Vendor Risk Analysis and Business Impact Analysis.</i></li>
+</ul>
+<p><i><b>Certifications: CISSP/CISM/CISA</b></i></p>
+<p><i><b>Experience Required</b>: <b>3+ years.</b></i></p>
+<p><i><b>Terms and conditions:</b> </i></p>
+<p><i><b>Joining time frame:</b>   Maximum 4 weeks</i></p>
+<p><i><b>The selected candidates shall join VAM SYSTEMS – Bahrain and shall be deputed to one of the leading Organizations in Bahrain.</b></i></p>
+<p><i> </i></p>
+<p><i> </i></p>","<p><b>VAM SYSTEMS</b> is a Business Consulting, IT Solutions and Services company with operations in UAE, Qatar, Bahrain, USA, Australia, Singapore &amp; India. . We offers a comprehensive list of services in the field of IT infrastructure management, Cloud services, IT Consulting Services, Banking, Management Resources, Information Technology Development, Telecom, Aviation, Retail Management &amp; Government offerings.</p>",,0,1,0.5712883340034207,False Positive,0.04128833400342069
+"Simatic IT MES (Detroit, MI) - Teamcenter Consultant (Houston, TX) - PDMLink (Cincinnati, OH)","<p>I am hiring for many positions as mentioned below:</p>
+<ul>
+<li><b>Simatic IT MES</b> - Detroit. Michigan, USA -</li>
+<li><b>Teamcenter Consultant</b> - Houston, Texas -</li>
+<li><b>PDMLink Migration Project</b> - Cincinnati OH -</li>
+<li><b>Mechanical Engineers</b>, <b>Technicians</b> for Multiple Location in USA -</li>
+</ul>
+<p>Send Resume to <b>#EMAIL_b8a051ea2c0573b136b1efaa1a87613a2b12b97c41b5d98ca215fb7349ee4653#</b></p>
+<p>Regards;&nbsp;<br /> <br /> Prashant Nagle <br /> Senior Executive &ndash; Client Services <br /> <br /> Helios and Matheson Information Technology Inc. <br /> <a href=""mailto:#EMAIL_b8a051ea2c0573b136b1efaa1a87613a2b12b97c41b5d98ca215fb7349ee4653#"" target=""_blank"">#EMAIL_b8a051ea2c0573b136b1efaa1a87613a2b12b97c41b5d98ca215fb7349ee4653#</a> | Direct: (732)-440-8641 | <a href=""#URL_2ae7e8e5ac38ee7a687ef48b4ae414b853fd96207449a00a746cf03fa8d4e13b#"" target=""_blank"">#URL_1ba10abcf1fc8c858531983976d49ef319eeeb2d4e8ee94ffc42c6456c1fb9a2#</a></p>",,,0,1,0.5961290080390355,False Positive,0.06612900803903543
+Customer Service Representative,"<p>As a trusted systems integrator for more than 50 years, <b>General Dynamics Information Technology</b> provides information technology (IT), systems engineering, professional services and simulation and training to customers in the defense, federal civilian government, health, homeland security, intelligence, state and local government and commercial sectors. With approximately 28,000 professionals worldwide, the company delivers IT enterprise solutions, manages large-scale, mission-critical IT programs and provides mission support services. GDIT is an Equal Opportunity/Affirmative Action Employer - Minorities/Females/Protected Veterans/Disabled<br><br><b>GENERAL SUMMARY: </b><br>The CMS Customer Service Representative I (CSR) is responsible for delivering general Marketplace information to callers. The CSRs use basic office equipment and technology such as telephones, email, and web browsers to perform their duties. The processes that the CSRs must follow are well defined and documented in standard operating procedures and scripts. Prescribed scripts must be read verbatim to the caller. Neither subject matter knowledge nor independent decision making is required by this position.</p>
+<p>The Customer Service Representative I reports directly to the Customer Service Supervisor. This is an entry level position responsible for disseminating general Marketplace information. Application processing, enrollment guidelines and a general Marketplace background will be the focus with callers. The Customer Service Representative I will follow scripting to determine when to transfer the caller to a Customer Service Representative II<br><br>General Dynamics Information Technology is an Equal Opportunity/Affirmative Action Employer (M/F/D/V).</p>","<p>Hawkeye Recruitment provides cost effective recruitment advertising solutions to help you cast the widest net to find the perfect candidate for your job. We can help improve your recruitment efforts, and streamline your hiring process. </p>","<p><b>JOB RESPONSIBILITIES:</b><br>• Utilize standard technology such as telephone, e-mail, and web browser to perform job duties.<br>• Provide knowledgeable responses to telephone inquiries in a courteous and professional<br>manner, utilizing pre-scripted responses which they must read verbatim to provide basic general and claims specific information.<br>• Follow established and documented policies and standard operating procedures such as filling out timesheets, adhering to privacy rules and responding to numerous phone inquiries.<br>• Assist caller with filling out online application and submitting it electronically to plan provider for processing.<br>• Complete basic call log related to the phone inquiries such as clicking radio buttons to confirm which scripts were read by the CSR to the caller.<br>• Refer calls as required to Customer Service Representative II.<br>• Maintain up-to-date knowledge of CMS regulations and policies as they apply.<br>• Report problems that occur via the online system so they can be addressed by the appropriate parties.<br>• Respond to telephone inquiries within the set departmental staffing and time parameters.<br>• May be required to work GDIT scheduled holidays. Overtime may be required.<br>• Perform other related duties as assigned.<br><br>• High School diploma or equivalent required<br><br><b>WORKING CONDITIONS:</b></p>
+<p>The work is typically performed in an office environment, which requires proper safety and security precautions. To ensure our contact center production area is at minimal risk for unauthorized disclosure (that is, the release or divulgence of information by an entity to persons or organizations outside of that entity) of Personally Identifiable Information (PII) or Protected Health Information (PHI), the work environment operates under a Secure Floor Policy. The Secure Floor Policy limits or restricts personal belongings, electronic devices, or paper that can be brought into production areas.<br><br>The above job description is not intended to be, nor should it be construed as, exhaustive of all responsibilities, skills, efforts, or working conditions associated with this job.<br><br>Requests for reasonable accommodations will be considered to enable individuals with disabilities to perform the principal (essential) functions of this job.</p>
+<p><b>EXPERIENCE:</b></p>
+<p>• Minimum 6 months customer service/secretarial/telemarketing experience required.<br>• Must be able to speak and read English clearly, professionally and fluently.<br>• Must be able to type a minimum of 20 WPM.<br>• Ability to effectively work within established contractual turnaround times required.<br>• Must have demonstrated excellent interpersonal and the ability to organize simultaneous tasks.<br>• Proven ability to work as a member of a team.<br>• All CMS personnel will be required by contract to undergo program update training as the program changes.<br>• Spanish fluency is desirable</p>",0,1,0.5475393233382471,False Positive,0.017539323338247037
+"Quality Specialist II, Clinical Programming","<p>in conjunction with operational staff, develop and implement a quality framework (processes and associated training materials). Ensure that the framework is appropriately updated and effective. Provide advice and support to operational staff in functional and cross-functional process application and adherence. Drive the improvement of the quality framework as necessary. <br /><br />• Perform or assist the performing of quality assessments (e.g. quality gates, gap assessment, study file review), feeding back results to the operational teams, line manager and head of the eClinical Process &amp; Training as appropriate.<br />• Working with the Process Optimization and Management (POM) group, ensure timely review and maintenance of Controlled Documents (e.g. SOPs and Work Instructions) in accordance with the defined timelines (e.g. every two years).<br />• Provide support and advice to operational groups on the application of, and adherence to processes and the use of systems.<br />• Support eClinical Process &amp; Training and operations staff at audits, client assessments or regulatory inspections, as needed.<br />• Research and advise on relevant regulatory and industry trends and initiatives to ensure company stays current on GxP compliance issues.<br />• Facilitate reporting, handling and follow up of Quality Issues</p>","<p><a href=""#URL_1152834047475221b1ad590ea4f639128912a655c4982536d9651091dd3e9faa#"" rel=""nofollow"" class=""external"">Maynard Consulting Company </a>has more than 20 years experience in the biotechnology, pharmaceutical, medical device, chemical, and validation engineering fields. In addition, we have over 10 years in project management, software engineering, telecommunication, testing, and networking engineering.  MCC partners with skilled candidates to meet and exceed their career expectations.</p>","<p>Previous programming experience<br />• IT literate – Experience with Microsoft based applications and general knowledge of PC functions.<br />• Culturally aware and ability to think and work globally.<br />• Ability to travel as needed for the position and to support other offices.<br />• Excellent interpersonal, verbal and written communication skills<br />• Client focused approach to work<br />• A flexible attitude with respect to work assignments and new learning <br />• Willingness to work in a matrix environment and to value the importance of teamwork.<br />• The ability to work as a team member or independently, with minimal supervision is necessary.</p>
+<p>• Ability to manage multiple and varied tasks with enthusiasm and prioritize workload with attention to detail.</p>
+<p>Education<br />• Educated to degree level (technology, biological science, pharmacy or other health related discipline preferred) or equivalent qualification or clinical research experience<br />• Master’s degree in a science, technology or industry related discipline, preferred <br /><br />Minimum Work Experience<br />• Experience in one or more areas of eClinical Process &amp; Training (e.g. process validation) or the functional areas that eClinical Process &amp; Training support.<br />• Understanding of Clinical technology solutions is preferred</p>",1,0,0.4752453682016169,False Negative,0.054754631798383135
+Sales & Support role,"<p>We are a small and successful satellite telecoms company, offering both hardware and airtime to a global, diverse customer base.<br><br>We are currently looking to recruit a self-motivated, adaptable and enthusiastic candidate to a multi-task position in our London office, located near Oxford Circus tube station.<br><br>The role includes Sales, Order preparation, Customer after-sales support and general administration.<br><br>Excellent written and oral communication skills and a good telephone manner are essential<br><br>Experience in having already worked in the technology sector preferred.<br><br>We offer a competitive salary.</p>",,,0,1,0.6054321432809429,False Positive,0.07543214328094283
+Data Entry ($18/hr),<p>Data entry clerk needed for a 16 week project (could go longer).  The data entry clerk will be responsible for entering billing and insurance information into the database.</p>,"<p>Monroe Staffing is a full-service staffing and consulting firm, serving companies ranging from Fortune 100 to new start-up organizations. We work with job seekers in an equally broad range, from light industrial temporary workers to executive level candidates. With offices throughout the Northeast and our newest office in North Carolina, we make it our business to know the local employment markets and our clients industries.</p>
+<p>Monroe Staffing provides a broad range of employment services and a best practices approach. From last-minute fill-ins to long-term strategic staffing plans; from a single high-level executive placement to a project team of specialists, we have developed effective strategies for finding and screening the most qualified staff based on our clients’ needs.</p>
+<p></p>","<p>The data entry clerk must be a quick and accurate typist.</p>
+<p>Position is Monday -Friday  8:30pm to 5:00pm.</p>
+<p>Must have strong Excel skills.</p>
+<p>Must have good oral and written communication skills, attention to detail, strong organizational skills, high level of integrity, ingenuity and initiative.</p>",0,1,0.7866214336141623,False Positive,0.25662143361416223
+"Engineering Senior Supervisor, Livonia, MI","<p>Responsible for leading a small team of engineers focused on the design and development of A-surface (in mold decorative, paint laser and etch) design and development projects. Provide technical expertise on surface decorating industry trends, customer styling and how it applies to products. Participate in customer presentations and design reviews. Manage technical materials requests. Propose materials (resins and lubricants) for BCS applications and set up of global surface, resin, and lubrication specifications. Evaluate applications for cost effective polymers and additives. Support the Global VAVE team in identifying alternate cost effective material recommendations. Consult with resin suppliers for VAVE alternatives. Research cost effective resins supplier’s for their automotive approvals and assist with information for approval of resins.</p>
+<p></p>
+<p></p>",,"<p>Bachelor degree in Engineering required. Chemical Engineering preferred. </p>
+<p>Minimum 10 years of related work experience. Prior supervisory experience required. Knowledgeable of Resins, Lubricants, In Mold Decorating, Paint Laser and Etch manufacturing processes, surface decorating industry trends, and customer styling. Must have excellent verbal and written communication skills. Willing to travel approximately 20% of time.</p>",1,0,0.4179673970731308,False Negative,0.11203260292686923
+Part-Time Administrative/Data Entry I,"<p>As Part Time Administrative Assistant/ Data Entry I you will be responsible for:</p>
+<p>-         Reporting directly to Account Managers</p>
+<p>-         Professional phone communication; phones, fax, email</p>
+<p>-         Responding to and resolving Customer Service issues</p>
+<p>-         Assisting managers and their meetings; transcribing notes, copying, organizing, preparing documents, samples, coordinating travel, agenda’s and more.</p>
+<p>-         Preparing weekly and monthly sales and social media tracking reports</p>
+<p>-         Researching products and companies with ability to simplify/summarize information</p>
+<p>-         Facilitating, organizing, filing and tracking electronic and paper documents, samples, supplies, meetings, office shipments and sample returns</p>
+<p>-         Assisting with social media postings, on-line order processing and general administrative duties. </p>",,"<p>Candidates must possess the following skills/qualifications to be considered for this position:</p>
+<p>-         Minimum of 2 years Professional office experience</p>
+<p>-         Excellent communication via phone, e-mail, fax, and in person with great professionalism, confidentiality, and tact.</p>
+<p>-         A “can do” attitude, handling all people and situations with a calm, courteous, and helpful attitude.</p>
+<p>-         Self-starter with excellent follow through and problem solving abilities.</p>
+<p>-         Must be on time and committed to position and company both physically and mentally throughout work day.</p>
+<p>-         Detail oriented with ability to track, manage, and organize multiple tasks on time is imperative.</p>
+<p>-         Proficiency in Microsoft Word, Excel, and PowerPoint is REQUIRED</p>
+<p>-         Ability to perform repetitive work while following specific processes on a daily basis.</p>
+<p>-         Ability to work independently and as a team.</p>
+<p>-         Ability to manage and organize all areas of work efficiently.</p>
+<p>-         Ability to travel to Dana Point, CA Monday – Friday.</p>
+<p>-         Ability to pass a drug test.</p>
+<p>-         Photo Shop skills are a plus.</p>
+<p>-         Warehouse Club experience is a plus.</p>
+<p> </p>
+<p><b>IMPORTANT: </b>Instructions to submit your resume:</p>
+<p>-         INCLUDE three references with your resume. Submissions included without references will not be considered for this position.</p>
+<p>-         Include a cover letter (typed in the e-mail or attached as a PDF)</p>
+<p>Interview Process:</p>
+<p>1)      Telephone interview.</p>
+<p>2)      In office interview and possible skills testing.</p>
+<p>3)      Possible follow up interview in office and personality testing.</p>",0,1,0.7052368210961631,False Positive,0.17523682109616312
+Intern Project Developer,"<p>We Are Looking for Interns for Project Development. You Will be responsible for gathering and arranging projects for the label and the network, such as meets and greets, building presence using the internet, and constructing pitches, and treatments.</p>",,"<p>High School Diploma</p>
+<p>Preferable a Bachelors Degree</p>
+<p>Good Communication Skills</p>
+<p>Focused</p>
+<p>Self-Controlled</p>
+<p>Good Worker</p>
+<p>Ontime All The Time</p>",1,0,0.4910643175042369,False Negative,0.038935682495763124
+Customer Service Representative,"<p><b>Job Description:</b><br> Allied Secured Benefits is looking for motivated people to join our team of Customer Service Representatives. <br><br> If you are passionate about helping people, you may be a good fit for our Customer Service Representative position. This is a Telecommute position, which means you can work from anywhere. <br><br><b>General Responsibilities:</b><br> As a Customer Service Representative for Allied Secured Benefits, you will help manage Customer Accounts, respond to email inquiries, and help Customers sign up for the service that best suits their needs.</p>",,<p>Basic Computer Skills <br><br> A Good Phone Voice <br><br> Knowledge of Email</p>,0,1,0.7797898932698405,False Positive,0.24978989326984047
+Retail Demonstrator,"<p>Dyson demonstrators work part-time as members of the Field Sales team to engage consumers in an energetic and confident manner and provide them with knowledgeable information about Dyson products in select retail locations (i.e. Costco, Bed Bath and<br>Beyond and Best Buy) or events across the United States. The most important part of a Demonstrators’ job is to create a positive experience with the store and the consumers; assisting in the sale of Dyson products to achieve company specified sales goals. Demonstrations occur on Saturdays, Sundays and some weekday holidays. Demonstrators must work a minimum of 3 out of 4 weekends per month within an assigned market. </p>
+<p></p>
+<p><b>Pay:</b> $18.50/hr</p>
+<p> </p>
+<p><b>Duties and Responsibilities: </b></p>
+<p>•  Conduct planned demonstrations in assigned retail stores to achieve specified sales goals</p>
+<p>•  Capture consumers’ attention to participate in high energy, captivating in-store demonstrations and model all aspects of Dyson’s brand, culture, and passion for technology</p>
+<p>•  Be a credible product and brand expert by educating consumers on the benefits and features of Dyson products and actively listening to consumers to confidently recommend appropriate Dyson products and comfortably over objections</p>
+<p>•  Increase overall awareness and sales of Dyson products through in store and event demonstrations</p>
+<p>•  Actively monitor Dyson’s online reporting system to contribute quality feedback and report/confirm attendance</p>",,"<p><b>Qualifications Needed:</b></p>
+<p>•  HS Diploma or GED required</p>
+<p>•  Experience in a retail sales environment required</p>",1,0,0.1179155762963623,False Negative,0.41208442370363774
+Legal Secretary,"<p>Lone Star legal Aid (LSLA) seeks a full time Legal Secretary for its Nacogdoches Branch Office.  LSLA is a 501 (c) (3) non-profit law firm and its mission is to protect and advance the civil rights of low-income Texans by providing advocacy, legal representation, and community education that ensure equal access to justice.  </p>
+<p> </p>",,"<p><b>Job Summary</b></p>
+<p>This worker carries out general office and secretarial duties in the assigned unit.  Answers the department/unit telephone, types correspondence and reports, maintains department, unit, or office files.</p>
+<p><b>Principle Duties</b></p>
+<p>Answers the telephone, takes accurate messages and/or routes callers to voice mail; prepares and types legal documents, reports and attorney and office correspondence; schedules appointments, sets up hearings and gives information to callers; develops and maintains accurate, systematic filing system of all documents dealing with the department/unit, including setting up case files; photocopies documents; posts and distributes mail and fax transmissions; greets unit or office visitors, clients, and applicants; and monitors unit or office reception area.</p>
+<p><b>Other Duties (As required by Unit or Branch Office)</b></p>
+<p>Conduct preliminary client eligibility screening; maintain department, unit, or office petty cash, in absence of  AMA (Assistant to the Managing Attorney); maintain cost of court receipt book; order department, office, or unit supplies in absence of AMA; transcribe documents from dictation or audio tape; if bilingual, interprets when required by Managing Attorney; serve as a Notary Public; maintains office library; and responsible for performing secretarial duties as assigned.</p>
+<p><b>Minimum Education Requirement</b></p>
+<p>High school diploma or equivalent.</p>
+<p><b>Minimum Skills and Experience Required</b></p>
+<p>This position requires to type at least 55 words per minute. Strong client service orientation. Ability to work under pressure. Bilingual preferred.</p>
+<p>Contacts Maintains contacts with clients and community by telephone, written communication, or in person.  These contacts require reasonable tact, discretion, self-expression and familiarity with law office practices.  Contacts may include meeting with individuals inside the organization as well as community service agencies, government entities and social service providers.</p>
+<p><b>Location:</b> LSLA Nacogdoches Branch Office is located at 414 East Pilar Street, Nacogdoches, Texas 75961.</p>
+<p><b>Classification:</b> Non-Exempt                                 <b>        Reports to:</b> Pro Bono Litigation Coordinator</p>
+<p><b>Deadline:</b> Opened until filled                          <b>              Salary:</b> Depending on experience, plus benefits.</p>
+<p><b>Resume:</b> Candidate must type at least 55 WPM.  For consideration, please send a resume and include typing speed, three professional references, and a cover letter (including where you saw the position announcement) to #EMAIL_50bcf3be0389ee736e06759d6976ee52391851808d4be881503a31367f417293#. Include ""<b>LS-Nacogdoches</b>"" in subject line of e-mail.</p>
+<p></p>
+<p>WOMEN AND MINORITIES ARE ENCOURAGED TO APPLY. </p>
+<p>LSLA IS AN EQUAL OPPORTUNITY EMPLOYER.</p>
+<p> </p>
+<p> </p>
+<p> </p>",0,1,0.660785284138197,False Positive,0.130785284138197
+Surveyors / Order Takers,"<p>Get paid $12 per hour to walk 3 miles per day. <br>Customer service skills are required. We train.</p>
+<p>Part-Time, 9AM to 1PM, perfect for semi-retired people or adults with school kids.</p>
+<p>Prior to employment, a full background check will be conducted. You must have reliable transportation to and from work.</p>
+<p><br>Positions available in Phoenix, Glendale, and Mesa.<br><br>-To apply for the Phoenix location please call #PHONE_9ba4b0f5516f70a807cf47478d237afdcafad8c91a4f2a0b0200dd0fa28828b5#.<br>-To apply for the Mesa location please call #PHONE_a722fe08b8c89ec5618320390f738f5c3a6d0831d71a025b5ac5e0489158937a#.<br>-To apply for the Glendale location please call #PHONE_5108f50f157808466ebff2d1b9187e0a809a5d1358702e5d1d427b7fb3a3ec10#.<br><br>PLEASE DO NOT REPLY TO THIS POST VIA EMAIL<br>Emails received WILL NOT be reviewed or considered for employment.<br>You must call one of the numbers above to apply.<br>Thank you.<br><br>-This employer participates in E-Verify.-<br>-Serious Inquiries Only Please!-</p>",,"<p>Customer service skills are required. We train.</p>
+<p>Must be able to walk 3 miles per day.</p>",0,1,0.6774014508708792,False Positive,0.1474014508708792
+Sales Rep Needed $$$$$$$$$$$,"<p><i>Alliance is looking for people who are passionate about both the work they do and the life they live.​ We are a high energy, goal oriented organization who is seeking out like minded professionals to assist our organization in continued growth.​  </i></p>
+<p><i>Alliance is an industry leader in providing innovative point-of-sale (POS) payment acceptance capabilities -- and backing them up with service, financial strength and stability.</i></p>
+<p><i>We offer flexibility, uncapped success, autonomy and life/​work balance.​ You would be hard pressed to find a company that will treat you better.​  We offer daily/monthly contests and yearly bonuses for top employees. Come see why AMS is one of the fastest growing companies. </i></p>",,"<p><i>Required Skills and Qualifications:</i></p>
+<p><i>Excellent verbal and written communication, ability to handle large call volume, willingness to cold call, MS office and general computer skills a plus, competitive, Money motivated, highly driven and goal oriented.​  </i></p>
+<ul>
+<li>
+<i>Ability to speak with multiple levels of corporate contacts </i>
+</li>
+<li>
+<i>Ability to understand and execute complex projects</i>
+</li>
+<li>
+<i>Willingness and ability to do extensive cold calling </i>
+</li>
+<li>
+<i>Willingness and ability to do extensive research</i>
+</li>
+<li>
+<i>Willingness and ability to communicate with executive management within Mid-Market corporations </i>
+</li>
+<li>
+<i>Interest and willingness to work in an inside sales business to business position </i>
+</li>
+<li>
+<i>High energy and drive for success</i>
+</li>
+<li>
+<i>Excellent intuition </i>
+</li>
+<li>
+<i>Ability to work both as a team and independently </i>
+</li>
+<li>
+<i>Ability to learn complex concepts quickly</i>
+</li>
+</ul><p><i>We provide full training for this position </i></p>",1,0,0.1783252227654268,False Negative,0.3516747772345732
+Nurse Manager: Med/Surg/Oncology/Telemetry (Near the 210 FWY),"<p><i>Quality-oriented, general-acute-care medical center in easy access to Pasadena, San Marino, San Gabriel, and Monrovia. </i>State-of-the-art, not for profit medical center serves the community with a commitment to excellence.</p>
+<p></p>
+<p><b><i>Ranges to approximately to $130K</i></b></p>
+<p><b>Med/Surg/Oncology/Telemetry, Nurse Manager</b><br><br><b>Job Summary:</b><br>The Manager is an excellent clinician who assists the Director in supervision and operational management.<br>The Manager coordinates care of the patients during hospitalization to obtain the best utilization of resources<br>so that patient outcomes are optimized. The Manager serves as a professional clinical role model for patient<br>care and assists other professionals in their development. The Manager demonstrates investment in the<br>overall forward movement of the unit and organization, and applies good verbal and non-verbal skills to<br>achieve service goals of customer satisfaction and a positive work environment.<br><br><br></p>",,<p><b>Experience/Qualifications:</b><br>Minimum three to five years clinical experience required<br>Possess basic computer skills. Prior management/leadership experience<br><br><b>Education:</b><br>Baccalaureate degree in Nursing preferred<br>Masters in Nursing preferred<br><br><b>Licensure/Certification:</b><br>A current RN licensure in the State of California is required<br>ACLS certification required<br>BLS certification required</p>,0,1,0.5651814875222018,False Positive,0.03518148752220174
+Web Developer  ,"<p>Apply using below link</p>
+<p><a href=""#URL_3fd69c66d9c4b82a75b75a28d2ee24a68c44c3daf0041ded92ee685dc326ce31#"">#URL_3fd69c66d9c4b82a75b75a28d2ee24a68c44c3daf0041ded92ee685dc326ce31#</a></p>
+<p>Web Developer, SportsBusiness Journal/Daily<br>SportsBusiness Journal and SportsBusiness Daily, the leading<br>publications covering the sports industry in print and online, are<br>seeking a talented web developer to design, create, implement and<br>support web applications, sites and code that further the company's<br>mission and specific business initiatives, including<br>industry-leading news coverage, conferences and events,<br>distribution and sales.<br>This position requires quick, creative thinking and the ability<br>to handle multiple projects. It offers opportunities to learn new<br>skills, platforms and technologies, as well as a chance to<br>significantly influence the company's direction by creating new<br>ways to reach and serve readers, advertisers and event<br>attendees.<br>Key areas of responsibility:<br><br>Design and build new products and features -- including CMS and<br>e-commerce platform - in technologies such as .NET 4.0, (X)HTML,<br>JavaScript, and CSS<br>Develop and maintain web apps to support internal systems<br>Implement third-party and first-party APIs<br>As needed, monitor web traffic and generate reports plus<br>provide second-tier customer support (e-mail, phone)<br>Train and support writers, graphic designers, and other CMS<br>users<br><br>A successful candidate for this position will have at<br>least two years of professional experience and knowledge of the<br>following areas:<br><br>#URL_01a736d89d2f0b19de700923d2c312837e180465650804d0f84105352812bf9a# (C# preferred), Visual Studio, MS SQL<br>HTML, CSS, 3rd party Javascript libraries, AJAX<br>CMS concepts<br><br>Additional experience that is preferred but not<br>required:</p>",,,1,0,0.462359627306293,False Negative,0.06764037269370704
+Human Resources Specialist,"<p>Description:                                                                                                                                                                                                                                                             <br>                                                                                                                                                                                                                                                              <br> This position will facilitate Human Resources functions including, but not limited to, recruitment, retention, employee relations and policy administration.                                                                                                                                                                                                                                                              <br>                                                                                                                                                                                                                                                              <br> Minimum requirements:                                                                                                                                                                                                                                                             <br>                                                                                                                                                                                                                                                              <br> Requirements:                                                                                                                                                                                                                                                             <br>                                                                                                                                                                                                                                                              <br> Related training/experience/education in Human Resources, Business or related discipline                                                                                                                                                                                                                                                             <br> 1 - 3 years HR experience                                                                                                                                                                                                                                                             <br> Effective problem-solving, communication and computer skills                                                                                                                                                                                                                                                              <br> Demonstrated experience coaching and mentoring others.                                                                                                                                                                                                                                                             <br>                                                                                                                                                                                                                                                              <br>                                                                                                                                                                                                                                                              </p>",,,0,1,0.6739134206778039,False Positive,0.14391342067780388
