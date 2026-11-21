@@ -1,116 +1,79 @@
-# JobGuard-AI
-## Data Preprocessing and Exploratory Data Analysis Report
+# JobGuard-AI – Data Preprocessing Report
 
-### 1. Project Overview
-JobGuard-AI is a machine learning-based system designed to
-identify fraudulent job postings and distinguish them from
-genuine job opportunities.
+## 1. Overview
 
-### 2. Dataset Description
-Dataset: Employment Scam Aegean Dataset (EMSCAD)
+This report describes the data inspection, exploratory data analysis (EDA), and text preparation performed for the JobGuard-AI fake job posting detection project.
 
-Total records: 17,880
-Total columns: 18
+The objective of preprocessing is to prepare job posting information in a consistent text format that can be used by the machine learning model to identify potentially fraudulent job postings.
 
-The dataset contains job posting information including:
-- Job title
-- Location
-- Department
-- Salary range
-- Company profile
-- Job description
-- Requirements
-- Benefits
-- Employment type
-- Required experience
-- Required education
-- Industry
-- Function
-- Fraudulent label
+## 2. Dataset Overview
 
-### 3. Exploratory Data Analysis
-The dataset was explored to understand its structure,
-data quality, missing values, and class distribution.
+- **Dataset:** Fake Job Postings (EMSCAD)
+- **Total records:** 17,880
+- **Total columns:** 18
+- **Target variable:** `fraudulent`
+- **Class 0:** Genuine job postings
+- **Class 1:** Fraudulent job postings
 
-The following analyses were performed:
-- Dataset dimensions
-- Column analysis
-- Data types
-- Missing value analysis
-- Class distribution
-- Job description length analysis
-- Description length comparison by class
+The dataset contains job-related information such as job titles, company profiles, descriptions, requirements, benefits, employment types, experience, education, industries, functions, locations, and salary ranges.
 
-### 4. Data Preprocessing
+## 3. Exploratory Data Analysis (EDA)
 
-#### Missing Value Handling
-Missing values in text fields were handled to prevent
-processing errors and maintain compatibility with text-based
-machine learning operations.
+Exploratory Data Analysis was performed to understand the structure, quality, and characteristics of the dataset.
 
-#### Duplicate Removal
-Duplicate records were identified and removed to reduce
-redundant information.
+The analysis includes:
 
-#### Text Cleaning
-Text data was processed using:
-- HTML entity decoding
-- HTML tag removal
-- Whitespace normalization
-- String conversion
-- Missing text handling
+- Identification of missing values across columns
+- Examination of genuine and fraudulent job posting distributions
+- Analysis of job description lengths
+- Comparison of description lengths between genuine and fraudulent postings
 
-#### Text Feature Preparation
-Relevant job posting fields were combined into a single
-text representation.
+Visualizations were generated to help understand the dataset and identify patterns relevant to fake job detection.
 
-Field prefixes were retained to preserve information about
-the source of each text field.
+## 4. Text Preprocessing
 
-#### Label Validation
-The target variable was converted into binary labels:
+The preprocessing pipeline uses the `prepare_text()` function defined in `preprocessing.py`.
 
-0 - Genuine job posting
-1 - Fraudulent job posting
+The function performs the following operations:
 
-### 5. Preprocessing Results
+- Selects predefined text and metadata columns.
+- Adds missing columns as empty strings when they are not present in the input data.
+- Replaces missing values with empty strings.
+- Converts the selected column values into strings.
+- Combines the selected fields into a single text representation.
+- Adds column-name prefixes to preserve information about the source of each text field.
 
-Original records: 17,880
-Processed records: 17,645
-Records removed: 235
+The selected columns are:
 
-Genuine postings: 16,787
-Fraudulent postings: 858
+- `title`
+- `company_profile`
+- `description`
+- `requirements`
+- `benefits`
+- `employment_type`
+- `required_experience`
+- `required_education`
+- `industry`
+- `function`
+- `location`
+- `salary_range`
 
-### 6. Class Imbalance
+The resulting text representation retains the source-field information, allowing the model to receive a combined representation of the job posting.
 
-The dataset contains significantly more genuine job postings
-than fraudulent job postings.
+**Note:** The current model-compatible preprocessing function does not perform HTML cleaning or additional whitespace normalization.
 
-This class imbalance is an important consideration during
-model evaluation.
+## 5. Model Compatibility
 
-Accuracy alone may not be sufficient to evaluate the
-fraud detection model.
+The original preprocessing implementation is retained to maintain compatibility with the existing trained model.
 
-Precision, Recall, F1-score, and confusion matrix should
-also be considered.
+Changing the text preparation process may alter the input representation provided to the model and can consequently affect predictions.
 
-### 7. Output Files
+Any proposed preprocessing modifications should therefore be evaluated against the existing pipeline. If substantial changes are introduced, model retraining and evaluation may be required before integration.
 
-EDA outputs:
-- missing_values.png
-- class_distribution.png
-- description_length.png
-- description_length_by_class.png
-- eda_summary.txt
+## 6. Conclusion
 
-Preprocessing output:
-- preprocessing_summary.txt
+The preprocessing module combines relevant job posting fields into a unified text representation while handling missing columns and missing values.
 
-### 8. Conclusion
+Exploratory data analysis provides an overview of the dataset, including missing-value patterns, class distribution, and description-length characteristics.
 
-Exploratory data analysis and preprocessing were performed
-to understand the dataset, handle data quality issues,
-prepare text data, validate labels, and generate a structured
-dataset suitable for fraudulent job posting detection.
+These preprocessing and analysis steps support the development of the JobGuard-AI fake job posting detection system while preserving compatibility with the existing model.
