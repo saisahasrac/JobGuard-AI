@@ -9,6 +9,7 @@ TEXT_COLUMNS = [
 def prepare_text(data: pd.DataFrame) -> pd.Series:
     """Combine known text/metadata columns; absent columns are treated as blank."""
     frame = data.copy()
+
     for column in TEXT_COLUMNS:
         if column not in frame.columns:
             frame[column] = ""

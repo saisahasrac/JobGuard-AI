@@ -1,0 +1,14 @@
+JOBGUARD-AI PREPROCESSING REPORT
+==================================================
+
+Original records: 17880
+Processed records: 17645
+Records removed: 235
+
+Final class distribution:
+fraudulent
+0    16787
+1      858
+
+Sample processed text:
+title: Marketing Intern company_profile: We're Food52, and we've created a groundbreaking and award-winning cooking site. We support, connect, and celebrate home cooks, and give them everything they need in one place. We have a top editorial, business, and engineering team. We're focused on using technology to find new and better ways to connect people around their specific food interests, and to offer them superb, highly curated information about food and cooking. We attract the most talented home cooks and contributors in the country; we also publish well-known professionals like Mario Batali, Gwyneth Paltrow, and Danny Meyer. And we have partnerships with Whole Foods Market and Random House. Food52 has been named the best food website by the James Beard Foundation and IACP, and has been featured in the New York Times, NPR, Pando Daily, TechCrunch, and on the Today Show. We're located in Chelsea, in New York City. description: Food52, a fast-growing, James Beard Award-winning online 
