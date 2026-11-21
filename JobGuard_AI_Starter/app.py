@@ -194,7 +194,7 @@ with tab2:
 
             st.dataframe(
                 batch.head(100),
-                use_container_width=True
+                width="stretch"
             )
 
             st.download_button(
