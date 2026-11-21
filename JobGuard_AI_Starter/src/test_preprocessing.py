@@ -1,106 +1,77 @@
-# ============================================================
-# JOBGUARD-AI
-# PREPROCESSING TEST
-# ============================================================
-
 import pandas as pd
-from pathlib import Path
+from preprocessing import prepare_text, TEXT_COLUMNS
 
-from preprocessing import (
-    preprocess_data,
-    validate_preprocessed_data,
-    preprocessing_summary
-)
 
-# ------------------------------------------------------------
-# PATHS
-# ------------------------------------------------------------
+def test_prepare_text_returns_series():
+    data = pd.DataFrame({
+        "title": ["Software Engineer"],
+        "description": ["Develop software"],
+        "company_profile": ["ABC Company"]
+    })
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
+    result = prepare_text(data)
 
-DATA_PATH = PROJECT_ROOT / "data" / "fake_job_postings.csv"
-OUTPUT_DIR = PROJECT_ROOT / "outputs"
+    assert isinstance(result, pd.Series)
+    assert len(result) == 1
 
-OUTPUT_DIR.mkdir(exist_ok=True)
 
-# ------------------------------------------------------------
-# LOAD ORIGINAL DATA
-# ------------------------------------------------------------
+def test_prepare_text_contains_column_prefixes():
+    data = pd.DataFrame({
+        "title": ["Software Engineer"],
+        "description": ["Develop software"]
+    })
 
-print("=" * 60)
-print("JOBGUARD-AI PREPROCESSING TEST")
-print("=" * 60)
+    result = prepare_text(data)
 
-df = pd.read_csv(DATA_PATH)
+    assert "title:" in result.iloc[0]
+    assert "description:" in result.iloc[0]
 
-print("\nOriginal Dataset Loaded")
-print("Shape:", df.shape)
 
-# ------------------------------------------------------------
-# RUN PREPROCESSING
-# ------------------------------------------------------------
+def test_prepare_text_handles_missing_columns():
+    data = pd.DataFrame({
+        "title": ["Data Analyst"]
+    })
 
-processed_df = preprocess_data(df)
+    result = prepare_text(data)
 
-# ------------------------------------------------------------
-# VALIDATE PREPROCESSED DATA
-# ------------------------------------------------------------
+    assert isinstance(result, pd.Series)
+    assert len(result) == 1
 
-validate_preprocessed_data(processed_df)
 
-# ------------------------------------------------------------
-# DISPLAY PREPROCESSING SUMMARY
-# ------------------------------------------------------------
+def test_prepare_text_handles_missing_values():
+    data = pd.DataFrame({
+        "title": [None],
+        "description": [None]
+    })
 
-preprocessing_summary(df, processed_df)
+    result = prepare_text(data)
 
-# ------------------------------------------------------------
-# DISPLAY SAMPLE OUTPUT
-# ------------------------------------------------------------
+    assert result.notna().all()
 
-print("\nSample Preprocessed Records")
-print("-" * 60)
 
-print(
-    processed_df[
-        ["fraudulent", "combined_text"]
-    ].head(3).to_string()
-)
+def test_prepare_text_preserves_rows():
+    data = pd.DataFrame({
+        "title": ["Engineer", "Developer", "Analyst"]
+    })
 
-# ------------------------------------------------------------
-# SAVE PREPROCESSING REPORT
-# ------------------------------------------------------------
+    result = prepare_text(data)
 
-report_path = OUTPUT_DIR / "preprocessing_summary.txt"
+    assert len(result) == len(data)
 
-with open(report_path, "w", encoding="utf-8") as file:
 
-    file.write("JOBGUARD-AI PREPROCESSING REPORT\n")
-    file.write("=" * 50 + "\n\n")
+def test_text_columns_exist():
+    assert isinstance(TEXT_COLUMNS, list)
+    assert len(TEXT_COLUMNS) > 0
 
-    file.write(f"Original records: {len(df)}\n")
-    file.write(f"Processed records: {len(processed_df)}\n")
 
-    file.write(
-        f"Records removed: {len(df) - len(processed_df)}\n\n"
-    )
+if __name__ == "__main__":
+    print("Running preprocessing checks...")
 
-    file.write("Final class distribution:\n")
-    file.write(
-        processed_df["fraudulent"]
-        .value_counts()
-        .to_string()
-    )
+    test_prepare_text_returns_series()
+    test_prepare_text_contains_column_prefixes()
+    test_prepare_text_handles_missing_columns()
+    test_prepare_text_handles_missing_values()
+    test_prepare_text_preserves_rows()
+    test_text_columns_exist()
 
-    file.write("\n\nSample processed text:\n")
-
-    file.write(
-        processed_df["combined_text"].iloc[0][:1000]
-    )
-
-print("\n" + "=" * 60)
-print("PREPROCESSING TEST COMPLETED SUCCESSFULLY!")
-print("=" * 60)
-
-print("\nReport saved to:")
-print(report_path)
+    print("All preprocessing checks passed!")
