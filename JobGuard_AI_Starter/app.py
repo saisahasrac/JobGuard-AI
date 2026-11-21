@@ -1,4 +1,5 @@
 import json
+import csv
 from pathlib import Path
 
 import joblib
@@ -27,30 +28,53 @@ model = load_model()
 with open(THRESHOLD_PATH, encoding="utf-8") as f:
     threshold = float(json.load(f)["threshold"])
 
+
 def warning_indicators(text):
     text_lower = text.lower()
+
     rules = {
         "Upfront payment or registration fee": [
-            "registration fee", "pay upfront", "processing fee", "security deposit",
-            "training fee", "payment required"
+            "registration fee",
+            "pay upfront",
+            "processing fee",
+            "security deposit",
+            "training fee",
+            "payment required"
         ],
         "Sensitive financial information requested": [
-            "bank password", "card number", "otp", "upi pin", "account password"
+            "bank password",
+            "card number",
+            "otp",
+            "upi pin",
+            "account password"
         ],
         "Unusually high or guaranteed earnings": [
-            "guaranteed income", "earn lakhs", "make money instantly",
-            "no experience high salary", "100% guaranteed"
+            "guaranteed income",
+            "earn lakhs",
+            "make money instantly",
+            "no experience high salary",
+            "100% guaranteed"
         ],
         "Pressure or urgency language": [
-            "apply immediately", "limited slots", "urgent hiring",
-            "act now", "offer expires today"
-        ],
+            "apply immediately",
+            "limited slots",
+            "urgent hiring",
+            "act now",
+            "offer expires today"
+        ]
     }
+
     found = []
+
     for label, phrases in rules.items():
-        matches = [phrase for phrase in phrases if phrase in text_lower]
+        matches = [
+            phrase for phrase in phrases
+            if phrase in text_lower
+        ]
+
         if matches:
             found.append((label, matches))
+
     return found
 
 tab1, tab2 = st.tabs(["Check one posting", "Check a CSV file"])
@@ -99,23 +123,89 @@ with tab1:
             st.caption("This is a screening aid, not proof of fraud or a guarantee of safety.")
 
 with tab2:
-    st.write("Upload a CSV containing job-posting text. A `description` column is recommended.")
-    uploaded = st.file_uploader("Choose CSV", type=["csv"])
+    st.write(
+        "Upload a CSV containing job-posting text. "
+        "A description column is recommended."
+    )
+
+    uploaded = st.file_uploader(
+        "Choose CSV",
+        type=["csv"]
+    )
+
     if uploaded is not None:
-        batch = pd.read_csv(uploaded)
+        try:
+           uploaded.seek(0)
+
+           batch = pd.read_csv(
+            uploaded,
+            engine="python",
+            on_bad_lines="error"
+        )
+
+        except pd.errors.EmptyDataError:
+            st.warning("The uploaded CSV file is empty.")
+            st.stop()
+
+        except (pd.errors.ParserError, UnicodeDecodeError):
+            st.error(
+                "Invalid CSV file. Please upload a valid UTF-8 CSV."
+            )
+            st.stop()
+
+        if batch.empty:
+            st.warning("The uploaded CSV contains no job postings.")
+            st.stop()
+
+        required_columns = {"title", "description"}
+
+        if not required_columns.issubset(batch.columns):
+            st.error(
+                "Invalid CSV format. Required columns: "
+                "title and description."
+            )
+            st.stop()
+
+        if batch[["title", "description"]].isna().any().any():
+            st.error(
+                "The CSV contains missing job titles or descriptions."
+            )
+            st.stop()
+
         st.write(f"Rows loaded: {len(batch)}")
+
         if st.button("Analyze CSV"):
-            scores = model.predict_proba(prepare_text(batch))[:, 1]
+            scores = model.predict_proba(
+                prepare_text(batch)
+            )[:, 1]
+
+            batch = batch.copy()
             batch["model_risk_indicator"] = scores
-            batch["screening_result"] = (scores >= threshold).astype(int)
-            batch["screening_result"] = batch["screening_result"].map({
-                0: "Lower model risk", 1: "Potentially suspicious"
-            })
-            st.dataframe(batch.head(100), use_container_width=True)
+
+            batch["screening_result"] = (
+                scores >= threshold
+            ).astype(int)
+
+            batch["screening_result"] = (
+                batch["screening_result"].map({
+                    0: "Lower model risk",
+                    1: "Potentially suspicious"
+                })
+            )
+
+            st.dataframe(
+                batch.head(100),
+                use_container_width=True
+            )
+
             st.download_button(
                 "Download analyzed CSV",
                 data=batch.to_csv(index=False).encode("utf-8"),
                 file_name="jobguard_analysis.csv",
-                mime="text/csv",
+                mime="text/csv"
             )
-            st.caption("Results are model screening indicators. Review each posting manually.")
+
+            st.caption(
+                "Results are model screening indicators. "
+                "Review each posting manually."
+            )
