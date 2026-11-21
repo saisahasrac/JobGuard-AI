@@ -76,7 +76,7 @@ plt.ylabel("Missing Values (%)")
 plt.xticks(rotation=45, ha="right")
 plt.tight_layout()
 
-plt.savefig(OUTPUT_DIR / "missing_values.png", dpi=300)
+plt.savefig(OUTPUT_DIR / "missing_values.jpeg", dpi=300)
 plt.close()
 
 # ------------------------------------------------------------
@@ -117,7 +117,7 @@ if "fraudulent" in df.columns:
 
     plt.tight_layout()
 
-    plt.savefig(OUTPUT_DIR / "class_distribution.png", dpi=300)
+    plt.savefig(OUTPUT_DIR / "class_distribution.jpeg", dpi=300)
     plt.close()
 
 # ------------------------------------------------------------
@@ -189,7 +189,7 @@ if "description" in df.columns:
 
     plt.tight_layout()
 
-    plt.savefig(OUTPUT_DIR / "description_length.png", dpi=300)
+    plt.savefig(OUTPUT_DIR / "description_length.jpeg", dpi=300)
     plt.close()
 
 # ------------------------------------------------------------
@@ -242,7 +242,7 @@ if "description" in df.columns and "fraudulent" in df.columns:
 
     plt.tight_layout()
 
-    plt.savefig(OUTPUT_DIR / "description_length_by_class.png", dpi=300)
+    plt.savefig(OUTPUT_DIR / "description_length_by_class.jpeg", dpi=300)
     plt.close()
 
 # ------------------------------------------------------------
@@ -286,10 +286,10 @@ print("EDA COMPLETED SUCCESSFULLY!")
 print("=" * 60)
 
 print("\nFiles saved in outputs folder:")
-print("- missing_values.png")
-print("- class_distribution.png")
-print("- description_length.png")
-print("- description_length_by_class.png")
+print("- missing_values.jpeg")
+print("- class_distribution.jpeg")
+print("- description_length.jpeg")
+print("- description_length_by_class.jpeg")
 print("- eda_summary.txt")
 
 print("\nOutput Directory:", OUTPUT_DIR)
