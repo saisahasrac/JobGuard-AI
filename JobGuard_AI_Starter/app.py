@@ -1,5 +1,4 @@
 import json
-import csv
 from pathlib import Path
 
 import joblib
@@ -138,9 +137,9 @@ with tab2:
            uploaded.seek(0)
 
            batch = pd.read_csv(
-            uploaded,
-            engine="python",
-            on_bad_lines="error"
+               uploaded,
+               engine="python",
+               on_bad_lines="error"
         )
 
         except pd.errors.EmptyDataError:
